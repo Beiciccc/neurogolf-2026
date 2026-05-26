@@ -1,76 +1,69 @@
 {
-  "timestamp_utc": "2026-05-25T07:07:00Z",
-  "experiment_id": "iter5108-anazemcev-positive3-over-iter5097",
-  "method": "anazemcev positive isolated replacements union over iter5097",
+  "timestamp_utc": "2026-05-26T09:06:43Z",
+  "experiment_id": "iter5157-task012-cb6200-franksunp-over-iter5108",
+  "method": "candidatebuilder current-best single-task source rebase",
   "risk_level": "medium",
   "validation_status": "passed",
-  "hypothesis": "Combine remaining positive anazemcev replacements over current best for queue screening only.",
-  "base_experiment_id": "iter5097-task025-anazemcev-cost-optimal-task025-over-iterQ20260522",
+  "hypothesis": "Rebase task012.onnx candidate from franksunp onto current best for gated screening.",
+  "base_experiment_id": "iter5108-anazemcev-positive3-over-iter5097",
   "base_candidate_json": "runs/current_metric_best_candidate.json",
-  "base_artifact_path": "runs/iter5097-task025-anazemcev-cost-optimal-task025-over-iterQ20260522/submission.zip",
-  "scan_summary": "runs/iter5107-anazemcev-over5097-positive-scan/summary.json",
-  "artifact_path": "runs/iter5108-anazemcev-positive3-over-iter5097/submission.zip",
-  "artifact_sha256": "b5edb4db3f4ff778f9b5c19ef9893d42fae73e0cad2e4005a38bd8a0e83d89f6",
-  "archived_artifact_path": "submissions/candidates/iter5108-anazemcev-positive3-over-iter5097-b5edb4db3f4f.zip",
-  "replacement_count": 3,
+  "base_artifact_path": "runs/iter5108-anazemcev-positive3-over-iter5097/submission.zip",
+  "artifact_path": "runs/iter5157-task012-cb6200-franksunp-over-iter5108/submission.zip",
+  "artifact_sha256": "01590210ae533bcd912030cad1f71afb2b4dba47667f681307b5c13acbced3c8",
+  "archived_artifact_path": "submissions/candidates/iter5157-task012-cb6200-franksunp-over-iter5108-01590210ae53.zip",
+  "replacement_count": 1,
   "replacement_tasks": [
-    "task028.onnx",
-    "task084.onnx",
-    "task204.onnx"
+    "task012.onnx"
+  ],
+  "local_score_or_metric": 6126.657684268715,
+  "base_score": 6111.209413343092,
+  "local_delta": 15.448270925622786,
+  "expected_public_score_if_local_delta_transfers": 6116.708270925623,
+  "source_script": "candidatebuilder_20260526_force100_inline",
+  "candidate_source_family": "external",
+  "preblock_reasons": [
+    "blocked_task"
   ],
   "replacements": [
     {
-      "task": "task028.onnx",
-      "source_path": "external/kaggle/public_intel_20260524_anazemcev_cost_optimal_blend/submission.zip:task028.onnx",
-      "source_onnx": "runs/iter5108-anazemcev-positive3-over-iter5097/task028.onnx",
-      "new_sha256": "54411158e7a2309911394cbcf02fc6da8f0f7f0698d5b50cfa0c7787a98eea7f",
-      "local_delta": 0.22217232687258637,
-      "replacement_score": 15.315290541268443,
-      "replacement_cost": 16070.0,
-      "static_memory_bytes": 15752,
+      "task": "task012.onnx",
+      "source_path": "external/kaggle/manual_20260518_franksunp_super_blend_v2/submission.zip:task012.onnx",
+      "source_onnx": "runs/iter5157-task012-cb6200-franksunp-over-iter5108/task012.onnx",
+      "source_label": "franksunp",
+      "variant": null,
+      "old_sha256": "253c1b159fe0efb002bf263baa3e4d47a7e74ff41f74384f670b7eb7bc34a2d1",
+      "new_sha256": "827ea583b2d1a06db712c2aba5a198ddf3853a109fe808aa7d6c70e839c94bfe",
+      "local_delta": 15.448270925622786,
+      "replacement_score": 15.448270925622786,
+      "replacement_cost": 14069.0,
+      "static_memory_bytes": 13968,
       "public_examples_checked": 265,
       "public_validation_reason": "ok:265",
       "validation_ok": true
-    },
-    {
-      "task": "task204.onnx",
-      "source_path": "external/kaggle/public_intel_20260524_anazemcev_cost_optimal_blend/submission.zip:task204.onnx",
-      "source_onnx": "runs/iter5108-anazemcev-positive3-over-iter5097/task204.onnx",
-      "new_sha256": "54f17ba89208a46186de13dcc5957c7404dd0d87f64653e038d0813f92dc6d3e",
-      "local_delta": 0.07523768449147816,
-      "replacement_score": 12.45227214412084,
-      "replacement_cost": 281455.0,
-      "static_memory_bytes": 275664,
-      "public_examples_checked": 268,
-      "public_validation_reason": "ok:268",
-      "validation_ok": true
-    },
-    {
-      "task": "task084.onnx",
-      "source_path": "external/kaggle/public_intel_20260524_anazemcev_cost_optimal_blend/submission.zip:task084.onnx",
-      "source_onnx": "runs/iter5108-anazemcev-positive3-over-iter5097/task084.onnx",
-      "new_sha256": "5bd28bac4f427d16b03dfcb9d4ae68237ccb4bb720b534e0e14b2768658ee6a0",
-      "local_delta": 0.002661345549514138,
-      "replacement_score": 15.121163810905001,
-      "replacement_cost": 19513.0,
-      "static_memory_bytes": 19400,
-      "public_examples_checked": 175,
-      "public_validation_reason": "ok:175",
-      "validation_ok": true
     }
   ],
-  "local_delta_sum": 0.30007135691357867,
-  "local_score_or_metric": 6111.209413343092,
-  "expected_public_score_if_local_delta_transfers": 6101.240071356913,
-  "notes": [
-    "Queue-only candidate; includes tasks with current hard/public-regression blocklist hits, so default submit_gate is expected to reject."
+  "full_public_validation": {
+    "ok": true,
+    "raw_ok": true,
+    "scoped_to_changed_task": "task012.onnx",
+    "task_count": 400,
+    "errors": [],
+    "warnings": [
+      "changed-task validation from source scan; submit_gate must validate before submit"
+    ],
+    "failed_tasks": []
+  },
+  "changed_files": [
+    "runs/iter5157-task012-cb6200-franksunp-over-iter5108/task012.onnx",
+    "runs/iter5157-task012-cb6200-franksunp-over-iter5108/submission.zip",
+    "runs/iter5157-task012-cb6200-franksunp-over-iter5108/candidate.json",
+    "runs/iter5157-task012-cb6200-franksunp-over-iter5108/summary.json"
   ],
-  "public_score": 6101.26,
+  "public_score": 6101.34,
   "kaggle_status": "SubmissionStatus.COMPLETE",
-  "kaggle_message": "force100_20260525_001_iter5108-anazemcev-positive3-over-iter5097",
+  "kaggle_message": "force100_20260526_065_iter5157-task012-cb6200-franksunp-over-iter5108",
   "forced_submit_override": true,
-  "manual_public_highscore_override": true,
-  "previous_best_public_score": 6100.94,
-  "best_updated_utc": "2026-05-25T13:32:16Z",
-  "kaggle_batch": "force_submit100_20260525"
+  "previous_best_public_score": 6101.26,
+  "best_updated_utc": "2026-05-26T09:34:32Z",
+  "kaggle_batch": "force_submit100_20260526"
 }

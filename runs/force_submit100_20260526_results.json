@@ -1,0 +1,1313 @@
+{
+  "timestamp_utc": "2026-05-26T09:34:32Z",
+  "mode": "force_submit100_20260526",
+  "today_manual_before_batch": 1,
+  "force_rows": 99,
+  "today_total_expected": 100,
+  "status_counts": {
+    "SubmissionStatus.COMPLETE": 99
+  },
+  "previous_best_public_score": 6101.26,
+  "best_row": {
+    "message": "force100_20260526_065_iter5157-task012-cb6200-franksunp-over-iter5108",
+    "idx": 65,
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.34,
+    "experiment_id": "iter5157-task012-cb6200-franksunp-over-iter5108",
+    "artifact_path": "runs/iter5157-task012-cb6200-franksunp-over-iter5108/submission.zip",
+    "summary_path": "runs/iter5157-task012-cb6200-franksunp-over-iter5108/summary.json",
+    "tasks": [
+      "task012.onnx"
+    ],
+    "score": 6126.657684268715
+  },
+  "best_improvement": 0.07999999999992724,
+  "rows": [
+    {
+      "message": "force100_20260526_001_iter5219-task294-force100-20260526-over-iter5108",
+      "idx": 1,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6099.07,
+      "experiment_id": "iter980-local-round20-task239-over-iter957",
+      "artifact_path": "runs/iter980-local-round20-task239-over-iter957/submission.zip",
+      "summary_path": "runs/iter980-local-round20-task239-over-iter957/summary.json",
+      "tasks": [
+        "task239.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_002_iter5219-task171-force100-20260526-over-iter5108",
+      "idx": 2,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6097.98,
+      "experiment_id": "iter979-local-round20-task344-over-iter957",
+      "artifact_path": "runs/iter979-local-round20-task344-over-iter957/submission.zip",
+      "summary_path": "runs/iter979-local-round20-task344-over-iter957/summary.json",
+      "tasks": [
+        "task344.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_003_iter5219-task139-force100-20260526-over-iter5108",
+      "idx": 3,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.51,
+      "experiment_id": "iter978-local-round19-task001-over-iter957",
+      "artifact_path": "runs/iter978-local-round19-task001-over-iter957/submission.zip",
+      "summary_path": "runs/iter978-local-round19-task001-over-iter957/summary.json",
+      "tasks": [
+        "task001.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_004_iter5218-task272-cb6200-jchan6638-over-iter5108",
+      "idx": 4,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6097.11,
+      "experiment_id": "iter977-local-round18-task205-over-iter957",
+      "artifact_path": "runs/iter977-local-round18-task205-over-iter957/submission.zip",
+      "summary_path": "runs/iter977-local-round18-task205-over-iter957/summary.json",
+      "tasks": [
+        "task205.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_005_iter5217-task363-cb6200-franksunp-over-iter5108",
+      "idx": 5,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6089.48,
+      "experiment_id": "iter976-local-round17-task151-over-iter957",
+      "artifact_path": "runs/iter976-local-round17-task151-over-iter957/submission.zip",
+      "summary_path": "runs/iter976-local-round17-task151-over-iter957/summary.json",
+      "tasks": [
+        "task151.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_006_iter5216-task174-cb6200-franksunp-over-iter5108",
+      "idx": 6,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.25,
+      "experiment_id": "iter975-local-round16-task396-over-iter957",
+      "artifact_path": "runs/iter975-local-round16-task396-over-iter957/submission.zip",
+      "summary_path": "runs/iter975-local-round16-task396-over-iter957/summary.json",
+      "tasks": [
+        "task396.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_007_iter5215-task049-cb6200-franksunp-over-iter5108",
+      "idx": 7,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.78,
+      "experiment_id": "iter974-local-round15-task157-over-iter957",
+      "artifact_path": "runs/iter974-local-round15-task157-over-iter957/submission.zip",
+      "summary_path": "runs/iter974-local-round15-task157-over-iter957/summary.json",
+      "tasks": [
+        "task157.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_008_iter5214-task184-cb6200-franksunp-over-iter5108",
+      "idx": 8,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.1,
+      "experiment_id": "iter973-local-round14-task180-over-iter957",
+      "artifact_path": "runs/iter973-local-round14-task180-over-iter957/submission.zip",
+      "summary_path": "runs/iter973-local-round14-task180-over-iter957/summary.json",
+      "tasks": [
+        "task180.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_009_iter5213-task184-cb6200-anazemcev-over-iter5108",
+      "idx": 9,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.1,
+      "experiment_id": "iter972-local-round13-task099-over-iter957",
+      "artifact_path": "runs/iter972-local-round13-task099-over-iter957/submission.zip",
+      "summary_path": "runs/iter972-local-round13-task099-over-iter957/summary.json",
+      "tasks": [
+        "task099.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_010_iter5212-task184-cb6200-octavio6042-over-iter5108",
+      "idx": 10,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.1,
+      "experiment_id": "iter971-local-round12-task363-over-iter957",
+      "artifact_path": "runs/iter971-local-round12-task363-over-iter957/submission.zip",
+      "summary_path": "runs/iter971-local-round12-task363-over-iter957/summary.json",
+      "tasks": [
+        "task363.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_011_iter5211-task184-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 11,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.1,
+      "experiment_id": "iter970-local-round11-task233-over-iter957",
+      "artifact_path": "runs/iter970-local-round11-task233-over-iter957/submission.zip",
+      "summary_path": "runs/iter970-local-round11-task233-over-iter957/summary.json",
+      "tasks": [
+        "task233.onnx"
+      ],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_012_iter5210-task279-cb6200-anazemcev-over-iter5108",
+      "idx": 12,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.11,
+      "experiment_id": "iter581-task243-current-scan-over-iter551-logic-map-positive-overl",
+      "artifact_path": "runs/iter581-task243-current-scan-over-iter551-logic-map-positive-overl/submission.zip",
+      "summary_path": null,
+      "tasks": [],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_013_iter5209-task279-cb6200-octavio6042-over-iter5108",
+      "idx": 13,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.11,
+      "experiment_id": "iter547-errorfix-rollback-iter544-add-t111-over",
+      "artifact_path": "runs/iter547-errorfix-rollback-iter544-add-t111-over/submission.zip",
+      "summary_path": null,
+      "tasks": [],
+      "score": 0.0
+    },
+    {
+      "message": "force100_20260526_014_iter5208-task279-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 14,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.11,
+      "experiment_id": "iter546-errorfix-rollback-iter544-add-t111-over",
+      "artifact_path": "runs/iter546-errorfix-rollback-iter544-add-t111-over/submission.zip",
+      "summary_path": "runs/iter546-errorfix-rollback-iter544-add-t111-over/summary.json",
+      "tasks": [],
+      "score": 5233.369897367299
+    },
+    {
+      "message": "force100_20260526_015_iter5207-task279-cb6200-franksunp-over-iter5108",
+      "idx": 15,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.11,
+      "experiment_id": "iter545-errorfix-rollback-iter544-add-t111-over",
+      "artifact_path": "runs/iter545-errorfix-rollback-iter544-add-t111-over/submission.zip",
+      "summary_path": "runs/iter545-errorfix-rollback-iter544-add-t111-over/summary.json",
+      "tasks": [],
+      "score": 5233.369897367299
+    },
+    {
+      "message": "force100_20260526_016_iter5206-task367-cb6200-franksunp-over-iter5108",
+      "idx": 16,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6090.05,
+      "experiment_id": "iter5219-task294-force100-20260526-over-iter5108",
+      "artifact_path": "runs/iter5219-task294-force100-20260526-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5219-task294-force100-20260526-over-iter5108/summary.json",
+      "tasks": [
+        "task294.onnx"
+      ],
+      "score": 6109.020772509447
+    },
+    {
+      "message": "force100_20260526_017_iter5205-task219-cb6200-franksunp-over-iter5108",
+      "idx": 17,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6092.84,
+      "experiment_id": "iter5219-task171-force100-20260526-over-iter5108",
+      "artifact_path": "runs/iter5219-task171-force100-20260526-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5219-task171-force100-20260526-over-iter5108/summary.json",
+      "tasks": [
+        "task171.onnx"
+      ],
+      "score": 6107.9275111287925
+    },
+    {
+      "message": "force100_20260526_018_iter5204-task062-cb6200-jchan6638-over-iter5108",
+      "idx": 18,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.66,
+      "experiment_id": "iter5219-task139-force100-20260526-over-iter5108",
+      "artifact_path": "runs/iter5219-task139-force100-20260526-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5219-task139-force100-20260526-over-iter5108/summary.json",
+      "tasks": [
+        "task139.onnx"
+      ],
+      "score": 6110.501491611974
+    },
+    {
+      "message": "force100_20260526_019_iter5203-task062-cb6200-anazemcev-over-iter5108",
+      "idx": 19,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.74,
+      "experiment_id": "iter5218-task272-cb6200-jchan6638-over-iter5108",
+      "artifact_path": "runs/iter5218-task272-cb6200-jchan6638-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5218-task272-cb6200-jchan6638-over-iter5108/summary.json",
+      "tasks": [
+        "task272.onnx"
+      ],
+      "score": 6125.255996171835
+    },
+    {
+      "message": "force100_20260526_020_iter5202-task062-cb6200-octavio6042-over-iter5108",
+      "idx": 20,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.74,
+      "experiment_id": "iter5217-task363-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5217-task363-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5217-task363-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task363.onnx"
+      ],
+      "score": 6125.3082209840695
+    },
+    {
+      "message": "force100_20260526_021_iter5201-task062-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 21,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.74,
+      "experiment_id": "iter5216-task174-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5216-task174-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5216-task174-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task174.onnx"
+      ],
+      "score": 6125.32474659878
+    },
+    {
+      "message": "force100_20260526_022_iter5200-task062-cb6200-franksunp-over-iter5108",
+      "idx": 22,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.74,
+      "experiment_id": "iter5215-task049-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5215-task049-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5215-task049-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task049.onnx"
+      ],
+      "score": 6125.342350789708
+    },
+    {
+      "message": "force100_20260526_023_iter5199-task377-cb6200-franksunp-over-iter5108",
+      "idx": 23,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5214-task184-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5214-task184-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5214-task184-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task184.onnx"
+      ],
+      "score": 6125.356974276442
+    },
+    {
+      "message": "force100_20260526_024_iter5198-task035-cb6200-franksunp-over-iter5108",
+      "idx": 24,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.76,
+      "experiment_id": "iter5213-task184-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5213-task184-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5213-task184-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task184.onnx"
+      ],
+      "score": 6125.357032350137
+    },
+    {
+      "message": "force100_20260526_025_iter5197-task022-cb6200-franksunp-over-iter5108",
+      "idx": 25,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5212-task184-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5212-task184-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5212-task184-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task184.onnx"
+      ],
+      "score": 6125.357032350137
+    },
+    {
+      "message": "force100_20260526_026_iter5196-task099-cb6200-franksunp-over-iter5108",
+      "idx": 26,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6099.11,
+      "experiment_id": "iter5211-task184-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5211-task184-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5211-task184-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task184.onnx"
+      ],
+      "score": 6125.357032350137
+    },
+    {
+      "message": "force100_20260526_027_iter5195-task178-cb6200-octavio6042-over-iter5108",
+      "idx": 27,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.91,
+      "experiment_id": "iter5210-task279-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5210-task279-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5210-task279-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task279.onnx"
+      ],
+      "score": 6125.3804374863275
+    },
+    {
+      "message": "force100_20260526_028_iter5194-task178-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 28,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.91,
+      "experiment_id": "iter5209-task279-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5209-task279-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5209-task279-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task279.onnx"
+      ],
+      "score": 6125.3804374863275
+    },
+    {
+      "message": "force100_20260526_029_iter5193-task178-cb6200-franksunp-over-iter5108",
+      "idx": 29,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.91,
+      "experiment_id": "iter5208-task279-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5208-task279-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5208-task279-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task279.onnx"
+      ],
+      "score": 6125.3804374863275
+    },
+    {
+      "message": "force100_20260526_030_iter5192-task035-cb6200-octavio6042-over-iter5108",
+      "idx": 30,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.86,
+      "experiment_id": "iter5207-task279-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5207-task279-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5207-task279-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task279.onnx"
+      ],
+      "score": 6125.3804374863275
+    },
+    {
+      "message": "force100_20260526_031_iter5191-task035-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 31,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.86,
+      "experiment_id": "iter5206-task367-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5206-task367-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5206-task367-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task367.onnx"
+      ],
+      "score": 6125.394225579016
+    },
+    {
+      "message": "force100_20260526_032_iter5190-task278-cb6200-anazemcev-over-iter5108",
+      "idx": 32,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.08,
+      "experiment_id": "iter5205-task219-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5205-task219-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5205-task219-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task219.onnx"
+      ],
+      "score": 6125.439497797854
+    },
+    {
+      "message": "force100_20260526_033_iter5189-task278-cb6200-octavio6042-over-iter5108",
+      "idx": 33,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.08,
+      "experiment_id": "iter5204-task062-cb6200-jchan6638-over-iter5108",
+      "artifact_path": "runs/iter5204-task062-cb6200-jchan6638-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5204-task062-cb6200-jchan6638-over-iter5108/summary.json",
+      "tasks": [
+        "task062.onnx"
+      ],
+      "score": 6125.4407809955055
+    },
+    {
+      "message": "force100_20260526_034_iter5188-task278-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 34,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.08,
+      "experiment_id": "iter5203-task062-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5203-task062-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5203-task062-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task062.onnx"
+      ],
+      "score": 6125.441159958835
+    },
+    {
+      "message": "force100_20260526_035_iter5187-task278-cb6200-franksunp-over-iter5108",
+      "idx": 35,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.08,
+      "experiment_id": "iter5202-task062-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5202-task062-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5202-task062-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task062.onnx"
+      ],
+      "score": 6125.441159958835
+    },
+    {
+      "message": "force100_20260526_036_iter5186-task055-cb6200-franksunp-over-iter5108",
+      "idx": 36,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5201-task062-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5201-task062-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5201-task062-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task062.onnx"
+      ],
+      "score": 6125.441159958835
+    },
+    {
+      "message": "force100_20260526_037_iter5185-task076-cb6200-franksunp-over-iter5108",
+      "idx": 37,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6090.42,
+      "experiment_id": "iter5200-task062-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5200-task062-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5200-task062-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task062.onnx"
+      ],
+      "score": 6125.441159958835
+    },
+    {
+      "message": "force100_20260526_038_iter5184-task148-cb6200-franksunp-over-iter5108",
+      "idx": 38,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter520-bundle-next8-over-iter493-pending",
+      "artifact_path": "runs/iter520-bundle-next8-over-iter493-pending/submission.zip",
+      "summary_path": "runs/iter520-bundle-next8-over-iter493-pending/summary.json",
+      "tasks": [
+        "task258.onnx",
+        "task260.onnx",
+        "task129.onnx",
+        "task139.onnx",
+        "task262.onnx",
+        "task200.onnx",
+        "task171.onnx",
+        "task272.onnx"
+      ],
+      "score": 5341.85524476718
+    },
+    {
+      "message": "force100_20260526_039_iter5183-task163-cb6200-franksunp-over-iter5108",
+      "idx": 39,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5183-task163-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5183-task163-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5183-task163-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task163.onnx"
+      ],
+      "score": 6125.746938771683
+    },
+    {
+      "message": "force100_20260526_040_iter5182-task166-cb6200-anazemcev-over-iter5108",
+      "idx": 40,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.95,
+      "experiment_id": "iter5182-task166-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5182-task166-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5182-task166-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task166.onnx"
+      ],
+      "score": 6125.779423687405
+    },
+    {
+      "message": "force100_20260526_041_iter5181-task166-cb6200-octavio6042-over-iter5108",
+      "idx": 41,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.95,
+      "experiment_id": "iter5181-task166-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5181-task166-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5181-task166-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task166.onnx"
+      ],
+      "score": 6125.779423687405
+    },
+    {
+      "message": "force100_20260526_042_iter5180-task166-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 42,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.95,
+      "experiment_id": "iter5180-task166-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5180-task166-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5180-task166-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task166.onnx"
+      ],
+      "score": 6125.779423687405
+    },
+    {
+      "message": "force100_20260526_043_iter5179-task244-cb6200-franksunp-over-iter5108",
+      "idx": 43,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5179-task244-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5179-task244-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5179-task244-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task244.onnx"
+      ],
+      "score": 6125.816640503028
+    },
+    {
+      "message": "force100_20260526_044_iter5178-task044-cb6200-franksunp-over-iter5108",
+      "idx": 44,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6090.94,
+      "experiment_id": "iter5178-task044-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5178-task044-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5178-task044-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task044.onnx"
+      ],
+      "score": 6125.842034553979
+    },
+    {
+      "message": "force100_20260526_045_iter5177-task063-cb6200-anazemcev-over-iter5108",
+      "idx": 45,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.98,
+      "experiment_id": "iter5177-task063-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5177-task063-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5177-task063-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task063.onnx"
+      ],
+      "score": 6125.876418687967
+    },
+    {
+      "message": "force100_20260526_046_iter5176-task063-cb6200-octavio6042-over-iter5108",
+      "idx": 46,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.98,
+      "experiment_id": "iter5176-task063-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5176-task063-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5176-task063-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task063.onnx"
+      ],
+      "score": 6125.876418687967
+    },
+    {
+      "message": "force100_20260526_047_iter5175-task063-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 47,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.98,
+      "experiment_id": "iter5175-task063-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5175-task063-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5175-task063-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task063.onnx"
+      ],
+      "score": 6125.876418687967
+    },
+    {
+      "message": "force100_20260526_048_iter5174-task188-cb6200-franksunp-over-iter5108",
+      "idx": 48,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.03,
+      "experiment_id": "iter5174-task188-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5174-task188-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5174-task188-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task188.onnx"
+      ],
+      "score": 6125.9935998871915
+    },
+    {
+      "message": "force100_20260526_049_iter5173-task188-cb6200-jchan6638-over-iter5108",
+      "idx": 49,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.03,
+      "experiment_id": "iter5173-task188-cb6200-jchan6638-over-iter5108",
+      "artifact_path": "runs/iter5173-task188-cb6200-jchan6638-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5173-task188-cb6200-jchan6638-over-iter5108/summary.json",
+      "tasks": [
+        "task188.onnx"
+      ],
+      "score": 6125.9935998871915
+    },
+    {
+      "message": "force100_20260526_050_iter5172-task096-cb6200-franksunp-over-iter5108",
+      "idx": 50,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6089.34,
+      "experiment_id": "iter5172-task096-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5172-task096-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5172-task096-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task096.onnx"
+      ],
+      "score": 6126.007823200776
+    },
+    {
+      "message": "force100_20260526_051_iter5171-task079-cb6200-franksunp-over-iter5108",
+      "idx": 51,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5171-task079-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5171-task079-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5171-task079-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task079.onnx"
+      ],
+      "score": 6126.084664008659
+    },
+    {
+      "message": "force100_20260526_052_iter5170-task183-cb6200-franksunp-over-iter5108",
+      "idx": 52,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5170-task183-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5170-task183-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5170-task183-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task183.onnx"
+      ],
+      "score": 6126.087754580868
+    },
+    {
+      "message": "force100_20260526_053_iter5169-task268-cb6200-franksunp-over-iter5108",
+      "idx": 53,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5169-task268-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5169-task268-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5169-task268-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task268.onnx"
+      ],
+      "score": 6126.087834982878
+    },
+    {
+      "message": "force100_20260526_054_iter5168-task008-cb6200-franksunp-over-iter5108",
+      "idx": 54,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.21,
+      "experiment_id": "iter5168-task008-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5168-task008-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5168-task008-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task008.onnx"
+      ],
+      "score": 6126.094369108493
+    },
+    {
+      "message": "force100_20260526_055_iter5167-task175-cb6200-franksunp-over-iter5108",
+      "idx": 55,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6087.72,
+      "experiment_id": "iter5167-task175-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5167-task175-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5167-task175-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task175.onnx"
+      ],
+      "score": 6126.129622306087
+    },
+    {
+      "message": "force100_20260526_056_iter5166-task237-cb6200-franksunp-over-iter5108",
+      "idx": 56,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5166-task237-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5166-task237-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5166-task237-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task237.onnx"
+      ],
+      "score": 6126.2126176134225
+    },
+    {
+      "message": "force100_20260526_057_iter5165-task023-cb6200-franksunp-over-iter5108",
+      "idx": 57,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6089.65,
+      "experiment_id": "iter5165-task023-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5165-task023-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5165-task023-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task023.onnx"
+      ],
+      "score": 6126.218464514785
+    },
+    {
+      "message": "force100_20260526_058_iter5164-task066-cb6200-franksunp-over-iter5108",
+      "idx": 58,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6089.38,
+      "experiment_id": "iter5164-task066-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5164-task066-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5164-task066-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task066.onnx"
+      ],
+      "score": 6126.237893380164
+    },
+    {
+      "message": "force100_20260526_059_iter5163-task084-cb6200-franksunp-over-iter5108",
+      "idx": 59,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5163-task084-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5163-task084-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5163-task084-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task084.onnx"
+      ],
+      "score": 6126.327915808447
+    },
+    {
+      "message": "force100_20260526_060_iter5162-task319-cb6200-franksunp-over-iter5108",
+      "idx": 60,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6093.35,
+      "experiment_id": "iter5162-task319-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5162-task319-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5162-task319-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task319.onnx"
+      ],
+      "score": 6126.347581465825
+    },
+    {
+      "message": "force100_20260526_061_iter5161-task068-cb6200-anazemcev-over-iter5108",
+      "idx": 61,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.9,
+      "experiment_id": "iter5161-task068-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5161-task068-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5161-task068-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task068.onnx"
+      ],
+      "score": 6126.414012240421
+    },
+    {
+      "message": "force100_20260526_062_iter5160-task068-cb6200-octavio6042-over-iter5108",
+      "idx": 62,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.9,
+      "experiment_id": "iter5160-task068-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5160-task068-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5160-task068-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task068.onnx"
+      ],
+      "score": 6126.414012240421
+    },
+    {
+      "message": "force100_20260526_063_iter5159-task068-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 63,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.9,
+      "experiment_id": "iter5159-task068-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5159-task068-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5159-task068-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task068.onnx"
+      ],
+      "score": 6126.414012240421
+    },
+    {
+      "message": "force100_20260526_064_iter5158-task068-cb6200-franksunp-over-iter5108",
+      "idx": 64,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.9,
+      "experiment_id": "iter5158-task068-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5158-task068-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5158-task068-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task068.onnx"
+      ],
+      "score": 6126.414012240421
+    },
+    {
+      "message": "force100_20260526_065_iter5157-task012-cb6200-franksunp-over-iter5108",
+      "idx": 65,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.34,
+      "experiment_id": "iter5157-task012-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5157-task012-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5157-task012-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task012.onnx"
+      ],
+      "score": 6126.657684268715
+    },
+    {
+      "message": "force100_20260526_066_iter5156-task012-cb6200-anazemcev-over-iter5108",
+      "idx": 66,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.34,
+      "experiment_id": "iter5156-task012-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5156-task012-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5156-task012-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task012.onnx"
+      ],
+      "score": 6126.657755349498
+    },
+    {
+      "message": "force100_20260526_067_iter5155-task012-cb6200-octavio6042-over-iter5108",
+      "idx": 67,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.34,
+      "experiment_id": "iter5155-task012-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5155-task012-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5155-task012-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task012.onnx"
+      ],
+      "score": 6126.657755349498
+    },
+    {
+      "message": "force100_20260526_068_iter5154-task012-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 68,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.34,
+      "experiment_id": "iter5154-task012-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5154-task012-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5154-task012-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task012.onnx"
+      ],
+      "score": 6126.657755349498
+    },
+    {
+      "message": "force100_20260526_069_iter5153-task153-cb6200-franksunp-over-iter5108",
+      "idx": 69,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6090.44,
+      "experiment_id": "iter5153-task153-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5153-task153-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5153-task153-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task153.onnx"
+      ],
+      "score": 6126.85931102874
+    },
+    {
+      "message": "force100_20260526_070_iter5152-task188-cb6200-anazemcev-over-iter5108",
+      "idx": 70,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.95,
+      "experiment_id": "iter5152-task188-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5152-task188-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5152-task188-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task188.onnx"
+      ],
+      "score": 6126.902037008605
+    },
+    {
+      "message": "force100_20260526_071_iter5151-task188-cb6200-octavio6042-over-iter5108",
+      "idx": 71,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.95,
+      "experiment_id": "iter5151-task188-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5151-task188-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5151-task188-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task188.onnx"
+      ],
+      "score": 6126.902037008605
+    },
+    {
+      "message": "force100_20260526_072_iter5150-task188-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 72,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.95,
+      "experiment_id": "iter5150-task188-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5150-task188-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5150-task188-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task188.onnx"
+      ],
+      "score": 6126.902037008605
+    },
+    {
+      "message": "force100_20260526_073_iter5149-task273-cb6200-franksunp-over-iter5108",
+      "idx": 73,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.71,
+      "experiment_id": "iter5149-task273-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5149-task273-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5149-task273-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task273.onnx"
+      ],
+      "score": 6126.956684204624
+    },
+    {
+      "message": "force100_20260526_074_iter5148-task003-cb6200-franksunp-over-iter5108",
+      "idx": 74,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5148-task003-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5148-task003-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5148-task003-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task003.onnx"
+      ],
+      "score": 6126.995579081861
+    },
+    {
+      "message": "force100_20260526_075_iter5147-task007-cb6200-anazemcev-over-iter5108",
+      "idx": 75,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.15,
+      "experiment_id": "iter5147-task007-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5147-task007-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5147-task007-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task007.onnx"
+      ],
+      "score": 6127.079199015595
+    },
+    {
+      "message": "force100_20260526_076_iter5146-task007-cb6200-octavio6042-over-iter5108",
+      "idx": 76,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.15,
+      "experiment_id": "iter5146-task007-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5146-task007-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5146-task007-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task007.onnx"
+      ],
+      "score": 6127.079199015595
+    },
+    {
+      "message": "force100_20260526_077_iter5145-task007-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 77,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.15,
+      "experiment_id": "iter5145-task007-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5145-task007-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5145-task007-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task007.onnx"
+      ],
+      "score": 6127.079199015595
+    },
+    {
+      "message": "force100_20260526_078_iter5144-task007-cb6200-franksunp-over-iter5108",
+      "idx": 78,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.15,
+      "experiment_id": "iter5144-task007-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5144-task007-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5144-task007-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task007.onnx"
+      ],
+      "score": 6127.079199015595
+    },
+    {
+      "message": "force100_20260526_079_iter5143-task001-cb6200-franksunp-over-iter5108",
+      "idx": 79,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5143-task001-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5143-task001-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5143-task001-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task001.onnx"
+      ],
+      "score": 6127.8340141572935
+    },
+    {
+      "message": "force100_20260526_080_iter5142-task001-cb6200-jchan6638-over-iter5108",
+      "idx": 80,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.22,
+      "experiment_id": "iter5142-task001-cb6200-jchan6638-over-iter5108",
+      "artifact_path": "runs/iter5142-task001-cb6200-jchan6638-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5142-task001-cb6200-jchan6638-over-iter5108/summary.json",
+      "tasks": [
+        "task001.onnx"
+      ],
+      "score": 6127.8340141572935
+    },
+    {
+      "message": "force100_20260526_081_iter5141-task207-cb6200-jchan6638-over-iter5108",
+      "idx": 81,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.95,
+      "experiment_id": "iter5141-task207-cb6200-jchan6638-over-iter5108",
+      "artifact_path": "runs/iter5141-task207-cb6200-jchan6638-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5141-task207-cb6200-jchan6638-over-iter5108/summary.json",
+      "tasks": [
+        "task207.onnx"
+      ],
+      "score": 6128.24490997954
+    },
+    {
+      "message": "force100_20260526_082_iter5140-task081-cb6200-franksunp-over-iter5108",
+      "idx": 82,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5140-task081-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5140-task081-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5140-task081-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task081.onnx"
+      ],
+      "score": 6128.464843533738
+    },
+    {
+      "message": "force100_20260526_083_iter5139-task272-cb6200-franksunp-over-iter5108",
+      "idx": 83,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.49,
+      "experiment_id": "iter5139-task272-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5139-task272-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5139-task272-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task272.onnx"
+      ],
+      "score": 6128.625148524703
+    },
+    {
+      "message": "force100_20260526_084_iter5138-task186-cb6200-anazemcev-over-iter5108",
+      "idx": 84,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.03,
+      "experiment_id": "iter5138-task186-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5138-task186-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5138-task186-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task186.onnx"
+      ],
+      "score": 6129.528558664301
+    },
+    {
+      "message": "force100_20260526_085_iter5137-task186-cb6200-octavio6042-over-iter5108",
+      "idx": 85,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.03,
+      "experiment_id": "iter5137-task186-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5137-task186-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5137-task186-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task186.onnx"
+      ],
+      "score": 6129.528558664301
+    },
+    {
+      "message": "force100_20260526_086_iter5136-task186-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 86,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.03,
+      "experiment_id": "iter5136-task186-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5136-task186-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5136-task186-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task186.onnx"
+      ],
+      "score": 6129.528558664301
+    },
+    {
+      "message": "force100_20260526_087_iter5135-task186-cb6200-franksunp-over-iter5108",
+      "idx": 87,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.03,
+      "experiment_id": "iter5135-task186-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5135-task186-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5135-task186-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task186.onnx"
+      ],
+      "score": 6129.528558664301
+    },
+    {
+      "message": "force100_20260526_088_iter5134-task061-cb6200-fp16ci-opt-slice-firs-over-iter5108",
+      "idx": 88,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.07,
+      "experiment_id": "iter5134-task061-cb6200-fp16ci-opt-slice-firs-over-iter5108",
+      "artifact_path": "runs/iter5134-task061-cb6200-fp16ci-opt-slice-firs-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5134-task061-cb6200-fp16ci-opt-slice-firs-over-iter5108/summary.json",
+      "tasks": [
+        "task061.onnx"
+      ],
+      "score": 6111.210048095824
+    },
+    {
+      "message": "force100_20260526_089_iter5133-task376-cb6200-fp16-over-iter5108",
+      "idx": 89,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.31,
+      "experiment_id": "iter5133-task376-cb6200-fp16-over-iter5108",
+      "artifact_path": "runs/iter5133-task376-cb6200-fp16-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5133-task376-cb6200-fp16-over-iter5108/summary.json",
+      "tasks": [
+        "task376.onnx"
+      ],
+      "score": 6111.260082059451
+    },
+    {
+      "message": "force100_20260526_090_iter5132-task190-cb6200-fp16ci-opt-slice-firs-over-iter5108",
+      "idx": 90,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.14,
+      "experiment_id": "iter5132-task190-cb6200-fp16ci-opt-slice-firs-over-iter5108",
+      "artifact_path": "runs/iter5132-task190-cb6200-fp16ci-opt-slice-firs-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5132-task190-cb6200-fp16ci-opt-slice-firs-over-iter5108/summary.json",
+      "tasks": [
+        "task190.onnx"
+      ],
+      "score": 6111.261261203499
+    },
+    {
+      "message": "force100_20260526_091_iter5131-task011-cb6200-jchan6638-over-iter5108",
+      "idx": 91,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.86,
+      "experiment_id": "iter5131-task011-cb6200-jchan6638-over-iter5108",
+      "artifact_path": "runs/iter5131-task011-cb6200-jchan6638-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5131-task011-cb6200-jchan6638-over-iter5108/summary.json",
+      "tasks": [
+        "task011.onnx"
+      ],
+      "score": 6124.766063061977
+    },
+    {
+      "message": "force100_20260526_092_iter5130-task073-cb6200-jchan6638-over-iter5108",
+      "idx": 92,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6096.89,
+      "experiment_id": "iter5130-task073-cb6200-jchan6638-over-iter5108",
+      "artifact_path": "runs/iter5130-task073-cb6200-jchan6638-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5130-task073-cb6200-jchan6638-over-iter5108/summary.json",
+      "tasks": [
+        "task073.onnx"
+      ],
+      "score": 6125.033486253129
+    },
+    {
+      "message": "force100_20260526_093_iter5129-task065-cb6200-franksunp-over-iter5108",
+      "idx": 93,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.88,
+      "experiment_id": "iter5129-task065-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5129-task065-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5129-task065-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task065.onnx"
+      ],
+      "score": 6125.360969859468
+    },
+    {
+      "message": "force100_20260526_094_iter5128-task065-cb6200-octavio6042-over-iter5108",
+      "idx": 94,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.88,
+      "experiment_id": "iter5128-task065-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5128-task065-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5128-task065-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task065.onnx"
+      ],
+      "score": 6125.361747555195
+    },
+    {
+      "message": "force100_20260526_095_iter5127-task065-cb6200-jsrdcht6029-over-iter5108",
+      "idx": 95,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.88,
+      "experiment_id": "iter5127-task065-cb6200-jsrdcht6029-over-iter5108",
+      "artifact_path": "runs/iter5127-task065-cb6200-jsrdcht6029-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5127-task065-cb6200-jsrdcht6029-over-iter5108/summary.json",
+      "tasks": [
+        "task065.onnx"
+      ],
+      "score": 6125.361747555195
+    },
+    {
+      "message": "force100_20260526_096_iter5126-task061-cb6200-franksunp-over-iter5108",
+      "idx": 96,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6101.26,
+      "experiment_id": "iter5126-task061-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5126-task061-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5126-task061-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task061.onnx"
+      ],
+      "score": 6126.3619143007645
+    },
+    {
+      "message": "force100_20260526_097_iter5125-task269-cb6200-franksunp-over-iter5108",
+      "idx": 97,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.68,
+      "experiment_id": "iter5125-task269-cb6200-franksunp-over-iter5108",
+      "artifact_path": "runs/iter5125-task269-cb6200-franksunp-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5125-task269-cb6200-franksunp-over-iter5108/summary.json",
+      "tasks": [
+        "task269.onnx"
+      ],
+      "score": 6126.603792888066
+    },
+    {
+      "message": "force100_20260526_098_iter5124-task269-cb6200-anazemcev-over-iter5108",
+      "idx": 98,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.69,
+      "experiment_id": "iter5124-task269-cb6200-anazemcev-over-iter5108",
+      "artifact_path": "runs/iter5124-task269-cb6200-anazemcev-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5124-task269-cb6200-anazemcev-over-iter5108/summary.json",
+      "tasks": [
+        "task269.onnx"
+      ],
+      "score": 6126.6165353676515
+    },
+    {
+      "message": "force100_20260526_099_iter5123-task269-cb6200-octavio6042-over-iter5108",
+      "idx": 99,
+      "status": "SubmissionStatus.COMPLETE",
+      "public_score": 6100.69,
+      "experiment_id": "iter5123-task269-cb6200-octavio6042-over-iter5108",
+      "artifact_path": "runs/iter5123-task269-cb6200-octavio6042-over-iter5108/submission.zip",
+      "summary_path": "runs/iter5123-task269-cb6200-octavio6042-over-iter5108/summary.json",
+      "tasks": [
+        "task269.onnx"
+      ],
+      "score": 6126.6165353676515
+    }
+  ]
+}

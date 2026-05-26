@@ -58,12 +58,5 @@
     "runs/iter5157-task012-cb6200-franksunp-over-iter5108/submission.zip",
     "runs/iter5157-task012-cb6200-franksunp-over-iter5108/candidate.json",
     "runs/iter5157-task012-cb6200-franksunp-over-iter5108/summary.json"
-  ],
-  "public_score": 6101.34,
-  "kaggle_status": "SubmissionStatus.COMPLETE",
-  "kaggle_message": "force100_20260526_065_iter5157-task012-cb6200-franksunp-over-iter5108",
-  "forced_submit_override": true,
-  "previous_best_public_score": 6101.26,
-  "best_updated_utc": "2026-05-26T09:34:32Z",
-  "kaggle_batch": "force_submit100_20260526"
+  ]
 }
