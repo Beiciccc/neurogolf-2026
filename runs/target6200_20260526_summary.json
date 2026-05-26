@@ -1,0 +1,49 @@
+{
+  "timestamp_utc": "2026-05-26T08:15:00Z",
+  "current_public_score": 6101.26,
+  "target_public_score": 6200.0,
+  "required_improvement": 98.74,
+  "current_best_experiment_id": "iter5108-anazemcev-positive3-over-iter5097",
+  "current_best_artifact": "runs/iter5108-anazemcev-positive3-over-iter5097/submission.zip",
+  "public_artifact_positive_replacements": 0,
+  "stability": {
+    "current_best_lint": "runs/stability_lint_iter5108_20260526.json",
+    "current_best_conv_bias_issue_task_count": 0,
+    "task315_repeated_scan": "runs/stability_scan_iter5115_task315_20260526.json",
+    "task315_repeated_scan_ok": true
+  },
+  "best_candidate_found": {
+    "experiment_id": "iter5115-task315-rebased-over-iter5108",
+    "local_delta": 1.7112646706263117,
+    "expected_public_score": 6102.971264670627,
+    "submitted": false,
+    "hold_reason": "score confidence hard reject due to blocked/error-prone history"
+  },
+  "cleanroom_trials": [
+    {
+      "task": "task110.onnx",
+      "experiment_id": "iter5117-task110-cb6200-task110-over-iter5108",
+      "local_delta": -2.1425240235078373,
+      "submitted": false
+    },
+    {
+      "task": "task061.onnx",
+      "experiment_id": "iter5118-task061-cb6200-task061-over-iter5108",
+      "local_delta": -4.339772983518204,
+      "submitted": false
+    },
+    {
+      "task": "task245.onnx",
+      "experiment_id": "iter5118-task245-cb6200-task245-over-iter5108",
+      "local_delta": -15.181961409296354,
+      "submitted": false
+    },
+    {
+      "task": "task168.onnx",
+      "experiment_id": "iter5118-task168-cb6200-task168-over-iter5108",
+      "local_delta": 0.0,
+      "submitted": false
+    }
+  ],
+  "conclusion": "Existing public-artifact and historical-rebase pools do not contain a path to 6200; new clean-room task-level rule models are required."
+}

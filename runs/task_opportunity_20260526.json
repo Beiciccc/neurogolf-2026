@@ -1,0 +1,4148 @@
+{
+  "base": "iter5108-anazemcev-positive3-over-iter5097",
+  "public": 6101.26,
+  "rows": [
+    {
+      "task": "task285.onnx",
+      "score": 6.600956859683599,
+      "cost": 97859481.0,
+      "mem": 97857000,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task366.onnx",
+      "score": 7.083011648575624,
+      "cost": 60429524.0,
+      "mem": 60377574,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task133.onnx",
+      "score": 9.611314142251466,
+      "cost": 4821935.0,
+      "mem": 4593046,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task158.onnx",
+      "score": 10.011357051865149,
+      "cost": 3232101.0,
+      "mem": 3231336,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task209.onnx",
+      "score": 10.108462970144975,
+      "cost": 2933002.0,
+      "mem": 2788300,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task076.onnx",
+      "score": 10.860726195012997,
+      "cost": 1382320.0,
+      "mem": 1152829,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task367.onnx",
+      "score": 11.31847122178359,
+      "cost": 874606.0,
+      "mem": 830750,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task025.onnx",
+      "score": 11.515230731947991,
+      "cost": 718391.0,
+      "mem": 718226,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task023.onnx",
+      "score": 11.839722531932656,
+      "cost": 519321.0,
+      "mem": 519300,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task182.onnx",
+      "score": 12.04462198234772,
+      "cost": 423106.0,
+      "mem": 422160,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task243.onnx",
+      "score": 12.226232858777102,
+      "cost": 352839.0,
+      "mem": 352800,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task096.onnx",
+      "score": 12.238167562770052,
+      "cost": 348653.0,
+      "mem": 346541,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task205.onnx",
+      "score": 12.284354515110621,
+      "cost": 332916.0,
+      "mem": 332695,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task382.onnx",
+      "score": 12.307051244460547,
+      "cost": 325445.0,
+      "mem": 314508,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task382_segment_shift_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task204.onnx",
+      "score": 12.45227214412084,
+      "cost": 281455.0,
+      "mem": 275664,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task370.onnx",
+      "score": 12.48122833178691,
+      "cost": 273422.0,
+      "mem": 272841,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task387.onnx",
+      "score": 12.616802611082747,
+      "cost": 238756.0,
+      "mem": 238672,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task138.onnx",
+      "score": 12.823845471257112,
+      "cost": 194105.0,
+      "mem": 193971,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task077.onnx",
+      "score": 12.837304694439394,
+      "cost": 191510.0,
+      "mem": 189300,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task054.onnx",
+      "score": 12.959680921536362,
+      "cost": 169451.0,
+      "mem": 169291,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task396.onnx",
+      "score": 12.968120040242047,
+      "cost": 168027.0,
+      "mem": 151372,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task173.onnx",
+      "score": 13.000090885749351,
+      "cost": 162740.0,
+      "mem": 162526,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task364.onnx",
+      "score": 13.049690951353334,
+      "cost": 154865.0,
+      "mem": 151980,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task364_component_shape_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task286.onnx",
+      "score": 13.05900028406075,
+      "cost": 153430.0,
+      "mem": 152129,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task080.onnx",
+      "score": 13.080250350883976,
+      "cost": 150204.0,
+      "mem": 148712,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task264.onnx",
+      "score": 13.154639006390818,
+      "cost": 139436.0,
+      "mem": 138584,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task264_static_shape_tiles_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task280.onnx",
+      "score": 13.156002567937232,
+      "cost": 139246.0,
+      "mem": 139200,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task234.onnx",
+      "score": 13.16687687090131,
+      "cost": 137740.0,
+      "mem": 136296,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task349.onnx",
+      "score": 13.19305508623538,
+      "cost": 134181.0,
+      "mem": 134100,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task092.onnx",
+      "score": 13.197955994792029,
+      "cost": 133525.0,
+      "mem": 133500,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task064.onnx",
+      "score": 13.210837710262732,
+      "cost": 131816.0,
+      "mem": 131578,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task202.onnx",
+      "score": 13.258187509088495,
+      "cost": 125720.0,
+      "mem": 125706,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task202_vector_stripe_zero_rule.py",
+        "scripts/build_task202_zero_line_propagation_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task383.onnx",
+      "score": 13.282111247754992,
+      "cost": 122748.0,
+      "mem": 121812,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task277.onnx",
+      "score": 13.300951878245035,
+      "cost": 120457.0,
+      "mem": 119525,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task284.onnx",
+      "score": 13.304494678264794,
+      "cost": 120031.0,
+      "mem": 117157,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task019.onnx",
+      "score": 13.351809645779097,
+      "cost": 114484.0,
+      "mem": 112656,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task013.onnx",
+      "score": 13.358144964565563,
+      "cost": 113761.0,
+      "mem": 111505,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task085.onnx",
+      "score": 13.36329175610469,
+      "cost": 113177.0,
+      "mem": 113040,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task071.onnx",
+      "score": 13.392309958585349,
+      "cost": 109940.0,
+      "mem": 109010,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task187.onnx",
+      "score": 13.409993130767205,
+      "cost": 108013.0,
+      "mem": 107100,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task005.onnx",
+      "score": 13.414549243225547,
+      "cost": 107522.0,
+      "mem": 107187,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task290.onnx",
+      "score": 13.417296638422354,
+      "cost": 107227.0,
+      "mem": 102688,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task290_crop_color_swap_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task034.onnx",
+      "score": 13.421333612067095,
+      "cost": 106795.0,
+      "mem": 103949,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task198.onnx",
+      "score": 13.450732962627335,
+      "cost": 103701.0,
+      "mem": 102788,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task216.onnx",
+      "score": 13.470709180943507,
+      "cost": 101650.0,
+      "mem": 101552,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task088.onnx",
+      "score": 13.492720443216598,
+      "cost": 99437.0,
+      "mem": 98186,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task088_anchor_recolor_crop_rule.py",
+        "scripts/build_task088_crop23_anchor_recolor_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task029.onnx",
+      "score": 13.50466840343082,
+      "cost": 98256.0,
+      "mem": 98087,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task358.onnx",
+      "score": 13.524381879840286,
+      "cost": 96338.0,
+      "mem": 95923,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task002.onnx",
+      "score": 13.526938655124914,
+      "cost": 96092.0,
+      "mem": 95600,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task109.onnx",
+      "score": 13.539389403678243,
+      "cost": 94903.0,
+      "mem": 93924,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task175.onnx",
+      "score": 13.540876235998127,
+      "cost": 94762.0,
+      "mem": 92012,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task110.onnx",
+      "score": 13.55366315618706,
+      "cost": 93558.0,
+      "mem": 92373,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task110_periodic_residue_fill_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task201.onnx",
+      "score": 13.556456768022363,
+      "cost": 93297.0,
+      "mem": 92366,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task208.onnx",
+      "score": 13.57720714162898,
+      "cost": 91381.0,
+      "mem": 90860,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task161.onnx",
+      "score": 13.585658066408573,
+      "cost": 90612.0,
+      "mem": 90537,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task281.onnx",
+      "score": 13.599884954659634,
+      "cost": 89332.0,
+      "mem": 88348,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task126.onnx",
+      "score": 13.636851460348,
+      "cost": 86090.0,
+      "mem": 86044,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task069.onnx",
+      "score": 13.647618944587462,
+      "cost": 85168.0,
+      "mem": 82858,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task275.onnx",
+      "score": 13.662917125726016,
+      "cost": 83875.0,
+      "mem": 81102,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task203.onnx",
+      "score": 13.663954921874343,
+      "cost": 83788.0,
+      "mem": 83104,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task203_ring_reverse_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task313.onnx",
+      "score": 13.676686603135188,
+      "cost": 82728.0,
+      "mem": 78185,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task303.onnx",
+      "score": 13.701382237681582,
+      "cost": 80710.0,
+      "mem": 80400,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task036.onnx",
+      "score": 13.712382927923493,
+      "cost": 79827.0,
+      "mem": 79672,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task009.onnx",
+      "score": 13.717230113243359,
+      "cost": 79441.0,
+      "mem": 75600,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task306.onnx",
+      "score": 13.717973078717048,
+      "cost": 79382.0,
+      "mem": 79314,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task300.onnx",
+      "score": 13.742844589171076,
+      "cost": 77432.0,
+      "mem": 77298,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task217.onnx",
+      "score": 13.747673358805168,
+      "cost": 77059.0,
+      "mem": 75126,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task217_pattern_driven_tiling_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task128.onnx",
+      "score": 13.755751683887302,
+      "cost": 76439.0,
+      "mem": 76340,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task014.onnx",
+      "score": 13.760498735734853,
+      "cost": 76077.0,
+      "mem": 72063,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task185.onnx",
+      "score": 13.76379029126618,
+      "cost": 75827.0,
+      "mem": 75771,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task107.onnx",
+      "score": 13.799992367549814,
+      "cost": 73131.0,
+      "mem": 59450,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task398.onnx",
+      "score": 13.818402028566412,
+      "cost": 71797.0,
+      "mem": 71033,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task379.onnx",
+      "score": 13.842978347795158,
+      "cost": 70054.0,
+      "mem": 68325,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task145.onnx",
+      "score": 13.84724128251065,
+      "cost": 69756.0,
+      "mem": 68824,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task097.onnx",
+      "score": 13.853496830423383,
+      "cost": 69321.0,
+      "mem": 68400,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task020.onnx",
+      "score": 13.859182239483939,
+      "cost": 68928.0,
+      "mem": 68663,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task020_gather_rotate_bbox_rule.py",
+        "scripts/build_task020_rotate_bbox_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task137.onnx",
+      "score": 13.859849825315278,
+      "cost": 68882.0,
+      "mem": 67916,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task051.onnx",
+      "score": 13.866331106969804,
+      "cost": 68437.0,
+      "mem": 68359,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task159.onnx",
+      "score": 13.874208686453212,
+      "cost": 67900.0,
+      "mem": 63796,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task328.onnx",
+      "score": 13.883931797172904,
+      "cost": 67243.0,
+      "mem": 64198,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task206.onnx",
+      "score": 13.895358612701735,
+      "cost": 66479.0,
+      "mem": 66250,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task011.onnx",
+      "score": 13.898854540195707,
+      "cost": 66247.0,
+      "mem": 63916,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task070.onnx",
+      "score": 13.916980912317708,
+      "cost": 65057.0,
+      "mem": 64980,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task070_maxpool_span_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task378.onnx",
+      "score": 13.926122280155061,
+      "cost": 64465.0,
+      "mem": 63982,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task378_diagonal_ray_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task238.onnx",
+      "score": 13.92761257026121,
+      "cost": 64369.0,
+      "mem": 62903,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task165.onnx",
+      "score": 13.93270560289606,
+      "cost": 64042.0,
+      "mem": 63050,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task037.onnx",
+      "score": 13.937652078450405,
+      "cost": 63726.0,
+      "mem": 55400,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task037_diag_pair_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task170.onnx",
+      "score": 13.943080589031656,
+      "cost": 63381.0,
+      "mem": 59567,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task090.onnx",
+      "score": 13.94350667496543,
+      "cost": 63354.0,
+      "mem": 63250,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task330.onnx",
+      "score": 13.94877671683621,
+      "cost": 63021.0,
+      "mem": 60200,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task112.onnx",
+      "score": 14.004102688105641,
+      "cost": 59629.0,
+      "mem": 59524,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task310.onnx",
+      "score": 14.016896111541362,
+      "cost": 58871.0,
+      "mem": 58005,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task154.onnx",
+      "score": 14.033423714864808,
+      "cost": 57906.0,
+      "mem": 56944,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task221.onnx",
+      "score": 14.0753933414941,
+      "cost": 55526.0,
+      "mem": 50499,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task221_tiling_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task174.onnx",
+      "score": 14.120105458262733,
+      "cost": 53098.0,
+      "mem": 53025,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task213.onnx",
+      "score": 14.139310125083302,
+      "cost": 52088.0,
+      "mem": 51929,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task374.onnx",
+      "score": 14.140289716998371,
+      "cost": 52037.0,
+      "mem": 51404,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task131.onnx",
+      "score": 14.146168175464865,
+      "cost": 51732.0,
+      "mem": 50787,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task316.onnx",
+      "score": 14.150682331012423,
+      "cost": 51499.0,
+      "mem": 51462,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task240.onnx",
+      "score": 14.15391090079992,
+      "cost": 51333.0,
+      "mem": 51260,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task340.onnx",
+      "score": 14.168688479776044,
+      "cost": 50580.0,
+      "mem": 50420,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task340_fp16_slice_first_static.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task253.onnx",
+      "score": 14.215475905806509,
+      "cost": 48268.0,
+      "mem": 47830,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task222.onnx",
+      "score": 14.225805027211683,
+      "cost": 47772.0,
+      "mem": 47688,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task222_crop16_dominant_2x2_rule.py",
+        "scripts/build_task222_dominant_2x2_block_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task270.onnx",
+      "score": 14.235438486227647,
+      "cost": 47314.0,
+      "mem": 46815,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task105.onnx",
+      "score": 14.236199649999174,
+      "cost": 47278.0,
+      "mem": 40012,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task030.onnx",
+      "score": 14.254859058604703,
+      "cost": 46404.0,
+      "mem": 45432,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task030_static_shift_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task377.onnx",
+      "score": 14.25518235885646,
+      "cost": 46389.0,
+      "mem": 44251,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task189.onnx",
+      "score": 14.256260781875307,
+      "cost": 46339.0,
+      "mem": 46036,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task335.onnx",
+      "score": 14.26184400347681,
+      "cost": 46081.0,
+      "mem": 45968,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task381.onnx",
+      "score": 14.262364961182486,
+      "cost": 46057.0,
+      "mem": 45120,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task169.onnx",
+      "score": 14.264320973281393,
+      "cost": 45967.0,
+      "mem": 45240,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task368.onnx",
+      "score": 14.273785421368032,
+      "cost": 45534.0,
+      "mem": 45460,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task192.onnx",
+      "score": 14.287539701398336,
+      "cost": 44912.0,
+      "mem": 44854,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task193.onnx",
+      "score": 14.28874277606723,
+      "cost": 44858.0,
+      "mem": 44800,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task338.onnx",
+      "score": 14.299027774355842,
+      "cost": 44399.0,
+      "mem": 43125,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task338_sliced25_maxpool_floodfill_rule.py",
+        "scripts/build_task338_rectangle_interior_cumsum_rule.py",
+        "scripts/build_task338_maxpool_floodfill_rule.py",
+        "scripts/build_task338_window_pair_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task075.onnx",
+      "score": 14.299838932328262,
+      "cost": 44363.0,
+      "mem": 44306,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task102.onnx",
+      "score": 14.311994655199376,
+      "cost": 43827.0,
+      "mem": 43488,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task162.onnx",
+      "score": 14.31978267816267,
+      "cost": 43487.0,
+      "mem": 43448,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task323.onnx",
+      "score": 14.319920659949291,
+      "cost": 43481.0,
+      "mem": 42894,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task279.onnx",
+      "score": 14.322384537771647,
+      "cost": 43374.0,
+      "mem": 43088,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task345.onnx",
+      "score": 14.322845749845131,
+      "cost": 43354.0,
+      "mem": 42414,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task119.onnx",
+      "score": 14.325501855248788,
+      "cost": 43239.0,
+      "mem": 41328,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task376.onnx",
+      "score": 14.339780325278817,
+      "cost": 42626.0,
+      "mem": 42588,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task022.onnx",
+      "score": 14.340578278805161,
+      "cost": 42592.0,
+      "mem": 42472,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task288.onnx",
+      "score": 14.350014091406932,
+      "cost": 42192.0,
+      "mem": 42152,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task089.onnx",
+      "score": 14.364336879936449,
+      "cost": 41592.0,
+      "mem": 41493,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task156.onnx",
+      "score": 14.382264462995908,
+      "cost": 40853.0,
+      "mem": 39887,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task384.onnx",
+      "score": 14.392746842443318,
+      "cost": 40427.0,
+      "mem": 40296,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task177.onnx",
+      "score": 14.393885343704795,
+      "cost": 40381.0,
+      "mem": 40280,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task224.onnx",
+      "score": 14.39870116077705,
+      "cost": 40187.0,
+      "mem": 40008,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task224_marker_frame_rule.py",
+        "scripts/build_task224_marker_frame_scan_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task365.onnx",
+      "score": 14.413870251549074,
+      "cost": 39582.0,
+      "mem": 39513,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task365_max_color2_component_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task231.onnx",
+      "score": 14.42007916922607,
+      "cost": 39337.0,
+      "mem": 39236,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task132.onnx",
+      "score": 14.449749577461455,
+      "cost": 38187.0,
+      "mem": 38124,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task055.onnx",
+      "score": 14.473653620022105,
+      "cost": 37285.0,
+      "mem": 36292,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task228.onnx",
+      "score": 14.473680440818953,
+      "cost": 37284.0,
+      "mem": 37208,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task033.onnx",
+      "score": 14.477011807072225,
+      "cost": 37160.0,
+      "mem": 37112,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task004.onnx",
+      "score": 14.480786413872512,
+      "cost": 37020.0,
+      "mem": 36000,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task301.onnx",
+      "score": 14.485633365590907,
+      "cost": 36841.0,
+      "mem": 35000,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task265.onnx",
+      "score": 14.50892024591297,
+      "cost": 35993.0,
+      "mem": 35863,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task148.onnx",
+      "score": 14.515750397498717,
+      "cost": 35748.0,
+      "mem": 35396,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task325.onnx",
+      "score": 14.5174302231919,
+      "cost": 35688.0,
+      "mem": 33786,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task027.onnx",
+      "score": 14.528191799850772,
+      "cost": 35306.0,
+      "mem": 28089,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task017.onnx",
+      "score": 14.532677003384267,
+      "cost": 35148.0,
+      "mem": 34525,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task017_periodic_residue_fill_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task163.onnx",
+      "score": 14.537525428590863,
+      "cost": 34978.0,
+      "mem": 33324,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task215.onnx",
+      "score": 14.547870943013656,
+      "cost": 34618.0,
+      "mem": 34524,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task215_period3_vertical_repeat_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task359.onnx",
+      "score": 14.590448140799591,
+      "cost": 33175.0,
+      "mem": 33042,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task094.onnx",
+      "score": 14.592137585193344,
+      "cost": 33119.0,
+      "mem": 33030,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task278.onnx",
+      "score": 14.593134488833039,
+      "cost": 33086.0,
+      "mem": 32724,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task197.onnx",
+      "score": 14.605267275676825,
+      "cost": 32687.0,
+      "mem": 32672,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task244.onnx",
+      "score": 14.607227159936084,
+      "cost": 32623.0,
+      "mem": 32539,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task390.onnx",
+      "score": 14.615847106792772,
+      "cost": 32343.0,
+      "mem": 31346,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task351.onnx",
+      "score": 14.61705365944738,
+      "cost": 32304.0,
+      "mem": 32264,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task400.onnx",
+      "score": 14.617084615845297,
+      "cost": 32303.0,
+      "mem": 32264,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task093.onnx",
+      "score": 14.62735292437552,
+      "cost": 31973.0,
+      "mem": 31864,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task091.onnx",
+      "score": 14.640037418447962,
+      "cost": 31570.0,
+      "mem": 31468,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task046.onnx",
+      "score": 14.649745459998602,
+      "cost": 31265.0,
+      "mem": 30400,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task065.onnx",
+      "score": 14.671048652849018,
+      "cost": 30606.0,
+      "mem": 30530,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task392.onnx",
+      "score": 14.680899008303893,
+      "cost": 30306.0,
+      "mem": 28220,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task057.onnx",
+      "score": 14.682583260943579,
+      "cost": 30255.0,
+      "mem": 30244,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task343.onnx",
+      "score": 14.700121720631415,
+      "cost": 29729.0,
+      "mem": 29362,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task252.onnx",
+      "score": 14.715169281476117,
+      "cost": 29285.0,
+      "mem": 28800,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task271.onnx",
+      "score": 14.725293778084298,
+      "cost": 28990.0,
+      "mem": 28928,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task350.onnx",
+      "score": 14.734407273945273,
+      "cost": 28727.0,
+      "mem": 28080,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task232.onnx",
+      "score": 14.734929567172557,
+      "cost": 28712.0,
+      "mem": 28644,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task062.onnx",
+      "score": 14.752603645054814,
+      "cost": 28209.0,
+      "mem": 27280,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task021.onnx",
+      "score": 14.75402263851722,
+      "cost": 28169.0,
+      "mem": 26322,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task178.onnx",
+      "score": 14.75455528061209,
+      "cost": 28154.0,
+      "mem": 27586,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task196.onnx",
+      "score": 14.769477459059523,
+      "cost": 27737.0,
+      "mem": 27675,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task196_sliced_rect_recolor_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task035.onnx",
+      "score": 14.818047724561701,
+      "cost": 26422.0,
+      "mem": 26196,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task184.onnx",
+      "score": 14.829505132503275,
+      "cost": 26121.0,
+      "mem": 26085,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task184_block_color_matrix_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task293.onnx",
+      "score": 14.862468521681373,
+      "cost": 25274.0,
+      "mem": 24789,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task079.onnx",
+      "score": 14.87525066556768,
+      "cost": 24953.0,
+      "mem": 24708,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task333.onnx",
+      "score": 14.877698254310891,
+      "cost": 24892.0,
+      "mem": 24840,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task183.onnx",
+      "score": 14.87834123777622,
+      "cost": 24876.0,
+      "mem": 24840,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task268.onnx",
+      "score": 14.878421639786314,
+      "cost": 24874.0,
+      "mem": 24776,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task166.onnx",
+      "score": 14.881885055918001,
+      "cost": 24788.0,
+      "mem": 24752,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task289.onnx",
+      "score": 14.882974886294898,
+      "cost": 24761.0,
+      "mem": 24682,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task242.onnx",
+      "score": 14.896432835748215,
+      "cost": 24430.0,
+      "mem": 24394,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task354.onnx",
+      "score": 14.912900057486995,
+      "cost": 24031.0,
+      "mem": 23780,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task008.onnx",
+      "score": 14.93341618465505,
+      "cost": 23543.0,
+      "mem": 23484,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task063.onnx",
+      "score": 14.947230744748117,
+      "cost": 23220.0,
+      "mem": 23190,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task218.onnx",
+      "score": 14.948178652958179,
+      "cost": 23198.0,
+      "mem": 23158,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task251.onnx",
+      "score": 14.968031285815332,
+      "cost": 22742.0,
+      "mem": 22656,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task251_rectangle_fill_rule.py",
+        "scripts/build_task251_sliced12_rectangle_fill_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task287.onnx",
+      "score": 14.975933324505487,
+      "cost": 22563.0,
+      "mem": 22528,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task308.onnx",
+      "score": 14.977263819645879,
+      "cost": 22533.0,
+      "mem": 22424,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task082.onnx",
+      "score": 14.983228406010534,
+      "cost": 22399.0,
+      "mem": 22320,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task247.onnx",
+      "score": 14.993324289667703,
+      "cost": 22174.0,
+      "mem": 22142,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task237.onnx",
+      "score": 15.003249817004182,
+      "cost": 21955.0,
+      "mem": 21915,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task074.onnx",
+      "score": 15.009280261521,
+      "cost": 21823.0,
+      "mem": 21780,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task086.onnx",
+      "score": 15.022565202511789,
+      "cost": 21535.0,
+      "mem": 21312,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task256.onnx",
+      "score": 15.066274264403262,
+      "cost": 20614.0,
+      "mem": 19374,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task371.onnx",
+      "score": 15.076905917824954,
+      "cost": 20396.0,
+      "mem": 20308,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task302.onnx",
+      "score": 15.087156352539846,
+      "cost": 20188.0,
+      "mem": 20160,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task302_enclosed12_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task084.onnx",
+      "score": 15.121163810905001,
+      "cost": 19513.0,
+      "mem": 19400,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task084_static_diag_floor_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task225.onnx",
+      "score": 15.148226883150551,
+      "cost": 18992.0,
+      "mem": 18384,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task061.onnx",
+      "score": 15.152500957672727,
+      "cost": 18911.0,
+      "mem": 16942,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task061_sliced_periodic_fill_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task031.onnx",
+      "score": 15.164416626077745,
+      "cost": 18687.0,
+      "mem": 18630,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task117.onnx",
+      "score": 15.169997536726349,
+      "cost": 18583.0,
+      "mem": 17955,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task117_dynamic_hmirror_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task245.onnx",
+      "score": 15.181961409296354,
+      "cost": 18362.0,
+      "mem": 18284,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task245_marker_align_shift_rule.py",
+        "scripts/build_task245_sliced10_argmax_shift_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task355.onnx",
+      "score": 15.185890258615089,
+      "cost": 18290.0,
+      "mem": 18168,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task151.onnx",
+      "score": 15.189285847616226,
+      "cost": 18228.0,
+      "mem": 18144,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task059.onnx",
+      "score": 15.203485373467977,
+      "cost": 17971.0,
+      "mem": 15420,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task059_best_region11_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task134.onnx",
+      "score": 15.259266698765298,
+      "cost": 16996.0,
+      "mem": 16917,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task397.onnx",
+      "score": 15.262862234748129,
+      "cost": 16935.0,
+      "mem": 16740,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task361.onnx",
+      "score": 15.264280423250316,
+      "cost": 16911.0,
+      "mem": 16641,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task168.onnx",
+      "score": 15.264812762895572,
+      "cost": 16902.0,
+      "mem": 16618,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task168_lray_shift_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task042.onnx",
+      "score": 15.266944959865413,
+      "cost": 16866.0,
+      "mem": 16707,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task042_pair_extrapolate_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task250.onnx",
+      "score": 15.280495383584492,
+      "cost": 16639.0,
+      "mem": 16392,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task041.onnx",
+      "score": 15.2994857919887,
+      "cost": 16326.0,
+      "mem": 16300,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task199.onnx",
+      "score": 15.310077023997758,
+      "cost": 16154.0,
+      "mem": 16103,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task199_shifted_parity_stripes_rule.py",
+        "scripts/build_task199_marker_parity_shift_rule.py",
+        "scripts/build_task199_marker_parity_stripes_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task028.onnx",
+      "score": 15.315290541268443,
+      "cost": 16070.0,
+      "mem": 15752,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task143.onnx",
+      "score": 15.32266050779838,
+      "cost": 15952.0,
+      "mem": 15896,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task130.onnx",
+      "score": 15.322911291498754,
+      "cost": 15948.0,
+      "mem": 15840,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task141.onnx",
+      "score": 15.331096188920638,
+      "cost": 15818.0,
+      "mem": 15750,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task362.onnx",
+      "score": 15.35612549998806,
+      "cost": 15427.0,
+      "mem": 15284,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task058.onnx",
+      "score": 15.364065148620487,
+      "cost": 15305.0,
+      "mem": 8860,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task341.onnx",
+      "score": 15.366747606311932,
+      "cost": 15264.0,
+      "mem": 14976,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task341_sliced10_gap_fill_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task375.onnx",
+      "score": 15.372859010251908,
+      "cost": 15171.0,
+      "mem": 15113,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task304.onnx",
+      "score": 15.413005601769772,
+      "cost": 14574.0,
+      "mem": 14476,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task298.onnx",
+      "score": 15.42870385990161,
+      "cost": 14347.0,
+      "mem": 13814,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task212.onnx",
+      "score": 15.436681508929375,
+      "cost": 14233.0,
+      "mem": 14012,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task212_vertical_projection_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task078.onnx",
+      "score": 15.46165168410047,
+      "cost": 13882.0,
+      "mem": 13860,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task315.onnx",
+      "score": 15.469099027006097,
+      "cost": 13779.0,
+      "mem": 13680,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task315_compact_mask_copy.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task372.onnx",
+      "score": 15.477041070282004,
+      "cost": 13670.0,
+      "mem": 13640,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task125.onnx",
+      "score": 15.495871237140275,
+      "cost": 13415.0,
+      "mem": 13170,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task246.onnx",
+      "score": 15.49781124670262,
+      "cost": 13389.0,
+      "mem": 12960,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task369.onnx",
+      "score": 15.502302608395981,
+      "cost": 13329.0,
+      "mem": 12800,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task136.onnx",
+      "score": 15.540224742755539,
+      "cost": 12833.0,
+      "mem": 12400,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task260.onnx",
+      "score": 15.601190340643628,
+      "cost": 12074.0,
+      "mem": 11932,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task260_dynamic_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task195.onnx",
+      "score": 15.601687399721047,
+      "cost": 12068.0,
+      "mem": 10150,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task314.onnx",
+      "score": 15.616547010315173,
+      "cost": 11890.0,
+      "mem": 11712,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task295.onnx",
+      "score": 15.623213420388153,
+      "cost": 11811.0,
+      "mem": 11747,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task342.onnx",
+      "score": 15.644780366705733,
+      "cost": 11559.0,
+      "mem": 11316,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task342_quadrant_marker_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task360.onnx",
+      "score": 15.659070058320216,
+      "cost": 11395.0,
+      "mem": 11360,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task190.onnx",
+      "score": 15.676152387230223,
+      "cost": 11202.0,
+      "mem": 11026,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task068.onnx",
+      "score": 15.71371762444866,
+      "cost": 10789.0,
+      "mem": 10762,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task124.onnx",
+      "score": 15.724714939383436,
+      "cost": 10671.0,
+      "mem": 10320,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task388.onnx",
+      "score": 15.728094272365663,
+      "cost": 10635.0,
+      "mem": 10460,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task388_static_dupcol_rule.py",
+        "scripts/build_task388_static_mod_opset10_rule.py",
+        "scripts/build_task388_tile_zero_to_eight_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task050.onnx",
+      "score": 15.753038444568173,
+      "cost": 10373.0,
+      "mem": 10125,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task060.onnx",
+      "score": 15.779610292170815,
+      "cost": 10101.0,
+      "mem": 9920,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task003.onnx",
+      "score": 15.786165738769562,
+      "cost": 10035.0,
+      "mem": 10026,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task391.onnx",
+      "score": 15.787961071388235,
+      "cost": 10017.0,
+      "mem": 9992,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task312.onnx",
+      "score": 15.791761836115688,
+      "cost": 9979.0,
+      "mem": 9960,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task012.onnx",
+      "score": 15.814977436008107,
+      "cost": 9750.0,
+      "mem": 9648,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task254.onnx",
+      "score": 15.865137769199775,
+      "cost": 9273.0,
+      "mem": 9116,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task226.onnx",
+      "score": 15.87456413511426,
+      "cost": 9186.0,
+      "mem": 9036,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task346.onnx",
+      "score": 15.87576232707723,
+      "cost": 9175.0,
+      "mem": 9069,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task024.onnx",
+      "score": 15.88617052840466,
+      "cost": 9080.0,
+      "mem": 8820,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task160.onnx",
+      "score": 15.895687032669347,
+      "cost": 8994.0,
+      "mem": 8900,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task048.onnx",
+      "score": 15.914202963098418,
+      "cost": 8829.0,
+      "mem": 8765,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task274.onnx",
+      "score": 15.922048816069562,
+      "cost": 8760.0,
+      "mem": 8372,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task329.onnx",
+      "score": 15.935957885641116,
+      "cost": 8639.0,
+      "mem": 8594,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task200.onnx",
+      "score": 15.94994575795716,
+      "cost": 8519.0,
+      "mem": 8446,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task200_seeded_stripe_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task269.onnx",
+      "score": 15.972381264839111,
+      "cost": 8330.0,
+      "mem": 8242,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task269_dynamic_scale3_rule.py",
+        "scripts/build_task269_resize_by_nonzero_count_rule.py",
+        "scripts/build_task269_expand_by_nonzero_count_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task263.onnx",
+      "score": 15.98118339558257,
+      "cost": 8257.0,
+      "mem": 8206,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task010.onnx",
+      "score": 15.983123025236617,
+      "cost": 8241.0,
+      "mem": 8165,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task010_cleanroom_static_rank.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task040.onnx",
+      "score": 15.998160902601157,
+      "cost": 8118.0,
+      "mem": 8056,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task188.onnx",
+      "score": 16.00050412375101,
+      "cost": 8099.0,
+      "mem": 8052,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task249.onnx",
+      "score": 16.000751098313884,
+      "cost": 8097.0,
+      "mem": 7776,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task332.onnx",
+      "score": 16.009932304246345,
+      "cost": 8023.0,
+      "mem": 7866,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task297.onnx",
+      "score": 16.022348592181558,
+      "cost": 7924.0,
+      "mem": 7818,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task039.onnx",
+      "score": 16.034154505249063,
+      "cost": 7831.0,
+      "mem": 7804,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task045.onnx",
+      "score": 16.0404313464555,
+      "cost": 7782.0,
+      "mem": 7750,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task047.onnx",
+      "score": 16.070697157756932,
+      "cost": 7550.0,
+      "mem": 7423,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task262.onnx",
+      "score": 16.086449719506327,
+      "cost": 7432.0,
+      "mem": 7404,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task327.onnx",
+      "score": 16.095098422064858,
+      "cost": 7368.0,
+      "mem": 7336,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task348.onnx",
+      "score": 16.103411928208782,
+      "cost": 7307.0,
+      "mem": 7168,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task007.onnx",
+      "score": 16.108488429472438,
+      "cost": 7270.0,
+      "mem": 7240,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task248.onnx",
+      "score": 16.12094533795773,
+      "cost": 7180.0,
+      "mem": 7132,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task248_static_bounce_path_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task357.onnx",
+      "score": 16.12094533795773,
+      "cost": 7180.0,
+      "mem": 7132,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task357_static_bounce_path_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task043.onnx",
+      "score": 16.129477454896126,
+      "cost": 7119.0,
+      "mem": 6980,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task043_no_pad_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task100.onnx",
+      "score": 16.135818630234574,
+      "cost": 7074.0,
+      "mem": 7033,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task321.onnx",
+      "score": 16.139642726672978,
+      "cost": 7047.0,
+      "mem": 6912,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task259.onnx",
+      "score": 16.16304484266857,
+      "cost": 6884.0,
+      "mem": 6835,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task259_crop_nonone_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task352.onnx",
+      "score": 16.20124341714016,
+      "cost": 6626.0,
+      "mem": 6600,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task121.onnx",
+      "score": 16.216144103356058,
+      "cost": 6528.0,
+      "mem": 6484,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task176.onnx",
+      "score": 16.23298237868822,
+      "cost": 6419.0,
+      "mem": 6300,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task180.onnx",
+      "score": 16.272545883100566,
+      "cost": 6170.0,
+      "mem": 5248,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task273.onnx",
+      "score": 16.295000321559236,
+      "cost": 6033.0,
+      "mem": 6000,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task336.onnx",
+      "score": 16.295497710278767,
+      "cost": 6030.0,
+      "mem": 5900,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task336_sliced_rect_gap_ray_rule.py",
+        "scripts/build_task336_rect_gap_ray_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task393.onnx",
+      "score": 16.322560459441668,
+      "cost": 5869.0,
+      "mem": 5844,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task353.onnx",
+      "score": 16.403810802357263,
+      "cost": 5411.0,
+      "mem": 5186,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task320.onnx",
+      "score": 16.4460892256486,
+      "cost": 5187.0,
+      "mem": 5049,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task292.onnx",
+      "score": 16.454413734082543,
+      "cost": 5144.0,
+      "mem": 5040,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task149.onnx",
+      "score": 16.45538621300777,
+      "cost": 5139.0,
+      "mem": 5095,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task356.onnx",
+      "score": 16.48280680858376,
+      "cost": 5000.0,
+      "mem": 4880,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task099.onnx",
+      "score": 16.500970779211436,
+      "cost": 4910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task394.onnx",
+      "score": 16.52989841611761,
+      "cost": 4770.0,
+      "mem": 4740,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task111.onnx",
+      "score": 16.581302055332863,
+      "cost": 4531.0,
+      "mem": 4504,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task111_marker_below_crop_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task001.onnx",
+      "score": 16.62460081420165,
+      "cost": 4339.0,
+      "mem": 4315,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task291.onnx",
+      "score": 16.62783258063402,
+      "cost": 4325.0,
+      "mem": 3396,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task123.onnx",
+      "score": 16.630379173050898,
+      "cost": 4314.0,
+      "mem": 3365,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task115.onnx",
+      "score": 16.69056925785967,
+      "cost": 4062.0,
+      "mem": 3982,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task115_edge_run_sequence_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task305.onnx",
+      "score": 16.71802294113224,
+      "cost": 3952.0,
+      "mem": 3668,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task305_periodic16_fp16_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task104.onnx",
+      "score": 16.772090162402517,
+      "cost": 3744.0,
+      "mem": 2674,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task139.onnx",
+      "score": 16.803563188764972,
+      "cost": 3628.0,
+      "mem": 3456,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task227.onnx",
+      "score": 16.8389104871542,
+      "cost": 3502.0,
+      "mem": 3456,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task296.onnx",
+      "score": 16.864946091388433,
+      "cost": 3412.0,
+      "mem": 3060,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task032.onnx",
+      "score": 16.867293510306737,
+      "cost": 3404.0,
+      "mem": 3336,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task299.onnx",
+      "score": 17.107174473748884,
+      "cost": 2678.0,
+      "mem": 2616,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task386.onnx",
+      "score": 17.12222366672274,
+      "cost": 2638.0,
+      "mem": 2592,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task122.onnx",
+      "score": 17.17196196787417,
+      "cost": 2510.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task344.onnx",
+      "score": 17.17196196787417,
+      "cost": 2510.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task207.onnx",
+      "score": 17.223045596677558,
+      "cost": 2385.0,
+      "mem": 2352,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task081.onnx",
+      "score": 17.25716404456925,
+      "cost": 2305.0,
+      "mem": 2198,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task081_l_corner_rule.py",
+        "scripts/build_task081_sliced7_l_missing_corner_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task146.onnx",
+      "score": 17.303787360653594,
+      "cost": 2200.0,
+      "mem": 2178,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task038.onnx",
+      "score": 17.306974251582112,
+      "cost": 2193.0,
+      "mem": 2116,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task072.onnx",
+      "score": 17.34177247383865,
+      "cost": 2118.0,
+      "mem": 2040,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task395.onnx",
+      "score": 17.404110082281463,
+      "cost": 1990.0,
+      "mem": 1944,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task347.onnx",
+      "score": 17.440961744556617,
+      "cost": 1918.0,
+      "mem": 1872,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task389.onnx",
+      "score": 17.451444020830127,
+      "cost": 1898.0,
+      "mem": 1856,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task389_ch5_active_color_rule.py",
+        "scripts/build_task389_replace5_with_zero_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task399.onnx",
+      "score": 17.483566697084367,
+      "cost": 1838.0,
+      "mem": 930,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task083.onnx",
+      "score": 17.504458056115745,
+      "cost": 1800.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task108.onnx",
+      "score": 17.504458056115745,
+      "cost": 1800.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task142.onnx",
+      "score": 17.504458056115745,
+      "cost": 1800.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task152.onnx",
+      "score": 17.504458056115745,
+      "cost": 1800.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task194.onnx",
+      "score": 17.504458056115745,
+      "cost": 1800.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task211.onnx",
+      "score": 17.504458056115745,
+      "cost": 1800.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task214.onnx",
+      "score": 17.504458056115745,
+      "cost": 1800.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task223.onnx",
+      "score": 17.504458056115745,
+      "cost": 1800.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task307.onnx",
+      "score": 17.504458056115745,
+      "cost": 1800.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task257.onnx",
+      "score": 17.629139833463285,
+      "cost": 1589.0,
+      "mem": 1536,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task267.onnx",
+      "score": 17.718614336429717,
+      "cost": 1453.0,
+      "mem": 1358,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task267_sliced7_marker_recolor_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task235.onnx",
+      "score": 17.771611548426396,
+      "cost": 1378.0,
+      "mem": 1272,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task144.onnx",
+      "score": 17.856382397295878,
+      "cost": 1266.0,
+      "mem": 1216,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task114.onnx",
+      "score": 17.865906278807135,
+      "cost": 1254.0,
+      "mem": 1091,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task229.onnx",
+      "score": 17.88767255528909,
+      "cost": 1227.0,
+      "mem": 1184,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task318.onnx",
+      "score": 17.90825788490485,
+      "cost": 1202.0,
+      "mem": 1152,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task181.onnx",
+      "score": 17.919132103309217,
+      "cost": 1189.0,
+      "mem": 1108,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task181_sliced6x9_directional_copy_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task026.onnx",
+      "score": 17.91997350007741,
+      "cost": 1188.0,
+      "mem": 1140,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task106.onnx",
+      "score": 17.940382371708615,
+      "cost": 1164.0,
+      "mem": 1039,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task236.onnx",
+      "score": 17.962972385313723,
+      "cost": 1138.0,
+      "mem": 1088,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task150.onnx",
+      "score": 18.02085472493119,
+      "cost": 1074.0,
+      "mem": 1040,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task155.onnx",
+      "score": 18.02085472493119,
+      "cost": 1074.0,
+      "mem": 1040,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task373.onnx",
+      "score": 18.02833139527421,
+      "cost": 1066.0,
+      "mem": 1040,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task052.onnx",
+      "score": 18.04822783560109,
+      "cost": 1045.0,
+      "mem": 1005,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task073.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task095.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task098.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task098_hollow_rect_boundary_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task120.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task147.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task171.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task258.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task266.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task272.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task283.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task294.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task294_sliced10_enclosed_fill_rule.py",
+        "scripts/build_task294_sliced10_neighbor_interior_rule.py"
+      ],
+      "blocked": false
+    },
+    {
+      "task": "task331.onnx",
+      "score": 18.186555400489105,
+      "cost": 910.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task015.onnx",
+      "score": 18.197605236675688,
+      "cost": 900.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task127.onnx",
+      "score": 18.197605236675688,
+      "cost": 900.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task220.onnx",
+      "score": 18.197605236675688,
+      "cost": 900.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task230.onnx",
+      "score": 18.197605236675688,
+      "cost": 900.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task282.onnx",
+      "score": 18.197605236675688,
+      "cost": 900.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task317.onnx",
+      "score": 18.197605236675688,
+      "cost": 900.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task322.onnx",
+      "score": 18.31164528605324,
+      "cost": 803.0,
+      "mem": 783,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task322_vertical_fill_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task334.onnx",
+      "score": 18.333043207570793,
+      "cost": 786.0,
+      "mem": 494,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task380.onnx",
+      "score": 18.39876988127112,
+      "cost": 736.0,
+      "mem": 720,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task339.onnx",
+      "score": 18.4207487879899,
+      "cost": 720.0,
+      "mem": 614,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task129.onnx",
+      "score": 18.544801436659878,
+      "cost": 636.0,
+      "mem": 608,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task167.onnx",
+      "score": 18.55428018061442,
+      "cost": 630.0,
+      "mem": 337,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task186.onnx",
+      "score": 18.57837773219348,
+      "cost": 615.0,
+      "mem": 234,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task056.onnx",
+      "score": 18.6738505268449,
+      "cost": 559.0,
+      "mem": 460,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task087.onnx",
+      "score": 19.070410856610106,
+      "cost": 376.0,
+      "mem": 360,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task140.onnx",
+      "score": 19.070410856610106,
+      "cost": 376.0,
+      "mem": 360,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task135.onnx",
+      "score": 19.097366666598635,
+      "cost": 366.0,
+      "mem": 360,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task067.onnx",
+      "score": 19.25060701409175,
+      "cost": 314.0,
+      "mem": 282,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task006.onnx",
+      "score": 19.557582289478205,
+      "cost": 231.0,
+      "mem": 198,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task103.onnx",
+      "score": 19.667281206734632,
+      "cost": 207.0,
+      "mem": 151,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task261.onnx",
+      "score": 19.701682633451963,
+      "cost": 200.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task326.onnx",
+      "score": 19.888012211643456,
+      "cost": 166.0,
+      "mem": 160,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task053.onnx",
+      "score": 21.598802618337846,
+      "cost": 30.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task113.onnx",
+      "score": 21.598802618337846,
+      "cost": 30.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task116.onnx",
+      "score": 21.598802618337846,
+      "cost": 30.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task164.onnx",
+      "score": 21.598802618337846,
+      "cost": 30.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task172.onnx",
+      "score": 21.598802618337846,
+      "cost": 30.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task210.onnx",
+      "score": 21.598802618337846,
+      "cost": 30.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task311.onnx",
+      "score": 21.598802618337846,
+      "cost": 30.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task385.onnx",
+      "score": 21.598802618337846,
+      "cost": 30.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task016.onnx",
+      "score": 22.697414907005953,
+      "cost": 10.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task276.onnx",
+      "score": 22.697414907005953,
+      "cost": 10.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task309.onnx",
+      "score": 22.697414907005953,
+      "cost": 10.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task337.onnx",
+      "score": 22.697414907005953,
+      "cost": 10.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task179.onnx",
+      "score": 25.0,
+      "cost": 0.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [
+        "scripts/build_task179_sliced_transpose_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task241.onnx",
+      "score": 25.0,
+      "cost": 0.0,
+      "mem": 0,
+      "reason": "ok",
+      "ok": true,
+      "builders": [],
+      "blocked": false
+    },
+    {
+      "task": "task018.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 759938,
+      "reason": "profile-error:ValueError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task044.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 2186144,
+      "reason": "profile-error:NotImplementedError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task049.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 32263,
+      "reason": "profile-error:AssertionError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task066.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 359517,
+      "reason": "profile-error:IndexError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task101.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 1110474,
+      "reason": "profile-error:ValueError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task118.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 1630016,
+      "reason": "profile-error:AssertionError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task153.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 1443609,
+      "reason": "profile-error:NotImplementedError",
+      "ok": false,
+      "builders": [
+        "scripts/build_task153_dynamic_pack_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task157.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 7506200,
+      "reason": "profile-error:AssertionError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task191.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 633421,
+      "reason": "profile-error:IndexError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task219.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 15839317,
+      "reason": "profile-error:NotImplementedError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task233.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 4367688,
+      "reason": "profile-error:ValueError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task239.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 94073,
+      "reason": "profile-error:AssertionError",
+      "ok": false,
+      "builders": [
+        "scripts/build_task239_color_histogram_rule.py"
+      ],
+      "blocked": true
+    },
+    {
+      "task": "task255.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 37499908,
+      "reason": "profile-error:ValueError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task319.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 26456820,
+      "reason": "profile-error:NotImplementedError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task324.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": 677682,
+      "reason": "profile-error:AssertionError",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    },
+    {
+      "task": "task363.onnx",
+      "score": null,
+      "cost": Infinity,
+      "mem": null,
+      "reason": "runtime-profile-error:InvalidArgument",
+      "ok": false,
+      "builders": [],
+      "blocked": true
+    }
+  ]
+}
