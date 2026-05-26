@@ -16,8 +16,12 @@
     "experiment_id": "iter5115-task315-rebased-over-iter5108",
     "local_delta": 1.7112646706263117,
     "expected_public_score": 6102.971264670627,
-    "submitted": false,
-    "hold_reason": "score confidence hard reject due to blocked/error-prone history"
+    "submitted": true,
+    "submission_message": "manual_task315_rebase_over_iter5108_override",
+    "submission_status": "SubmissionStatus.COMPLETE",
+    "public_score": 6085.79,
+    "public_delta_vs_best": -15.47,
+    "hold_reason": "score confidence hard reject was confirmed by manual override; exact task/source sha is blocked after public regression"
   },
   "cleanroom_trials": [
     {

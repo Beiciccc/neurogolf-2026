@@ -33,7 +33,9 @@
   - `task315.onnx`: local `+1.7113`, validation passed, but confidence gate hard-rejected due to blocked/error-prone history.
   - `task251.onnx`: local `+0.0005`, too small to matter.
 - The best local-composable candidate is about `6102.97` expected public, far below the `6200` target.
-- No candidate was submitted.
+- User-requested manual override submitted `task315` as `manual_task315_rebase_over_iter5108_override`.
+- Result: `SubmissionStatus.COMPLETE`, public score `6085.79`; this is a regression from `6101.26`.
+- The exact `task315` source sha is now recorded in `runs/public_regression_blocklist.jsonl`.
 
 ## Local clean-room trials
 

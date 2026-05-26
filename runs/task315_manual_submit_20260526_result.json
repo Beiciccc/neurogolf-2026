@@ -1,0 +1,21 @@
+{
+  "timestamp_utc": "2026-05-26T08:55:11Z",
+  "competition": "neurogolf-2026",
+  "experiment_id": "iter5115-task315-rebased-over-iter5108",
+  "artifact_path": "runs/iter5115-task315-rebased-over-iter5108/submission.zip",
+  "artifact_sha256": "79e1226d43c40d28c2e93ac119cd0b8649d36e13e60ead8e54cec6f87e64f54a",
+  "message": "manual_task315_rebase_over_iter5108_override",
+  "status": "SubmissionStatus.COMPLETE",
+  "public_score": 6085.79,
+  "previous_best_public_score": 6101.26,
+  "public_delta_vs_best": -15.47,
+  "local_delta": 1.7112646706263117,
+  "expected_public_score_if_local_delta_transfers": 6102.971264670627,
+  "best_candidate_updated": false,
+  "blocklist_update": {
+    "file": "runs/public_regression_blocklist.jsonl",
+    "task": "task315.onnx",
+    "source_path": "runs/iter2053-task315-compact-mask-copy-over-iter2034/submission.zip:task315.onnx",
+    "new_sha256": "3aa4315234b053b087a2128715dc127c5445d9c0872d09ac53c1c13bf944d1db"
+  }
+}
