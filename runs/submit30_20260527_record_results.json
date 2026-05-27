@@ -1,0 +1,302 @@
+[
+  {
+    "message": "iter5221-task376-submit30-20260527-01-over-iter5157 score=6126.708353 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5221-task376-submit30-20260527-01-over-iter5157",
+    "task": "task376.onnx",
+    "returncode": 0,
+    "output_tail": "placement_cost\": 40520.0,\n        \"static_memory_bytes\": 40482,\n        \"public_examples_checked\": 39,\n        \"public_validation_reason\": \"ok:39\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task376.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5221-task376-submit30-20260527-01-over-iter5157/task376.onnx\",\n      \"runs/iter5221-task376-submit30-20260527-01-over-iter5157/submission.zip\",\n      \"runs/iter5221-task376-submit30-20260527-01-over-iter5157/summary.json\",\n      \"runs/iter5221-task376-submit30-20260527-01-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": true\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.39,
+    "best_candidate_updated": true
+  },
+  {
+    "message": "iter5222-task184-submit30-20260527-02-over-iter5157 score=6125.975740 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5222-task184-submit30-20260527-02-over-iter5157",
+    "task": "task184.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 51660.0,\n        \"static_memory_bytes\": 51621,\n        \"public_examples_checked\": 169,\n        \"public_validation_reason\": \"ok:169\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task184.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5222-task184-submit30-20260527-02-over-iter5157/task184.onnx\",\n      \"runs/iter5222-task184-submit30-20260527-02-over-iter5157/submission.zip\",\n      \"runs/iter5222-task184-submit30-20260527-02-over-iter5157/summary.json\",\n      \"runs/iter5222-task184-submit30-20260527-02-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.18,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5223-task062-submit30-20260527-03-over-iter5157 score=6126.136827 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5223-task062-submit30-20260527-03-over-iter5157",
+    "task": "task062.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 47489.0,\n        \"static_memory_bytes\": 46560,\n        \"public_examples_checked\": 267,\n        \"public_validation_reason\": \"ok:267\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task062.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5223-task062-submit30-20260527-03-over-iter5157/task062.onnx\",\n      \"runs/iter5223-task062-submit30-20260527-03-over-iter5157/submission.zip\",\n      \"runs/iter5223-task062-submit30-20260527-03-over-iter5157/summary.json\",\n      \"runs/iter5223-task062-submit30-20260527-03-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6100.82,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5225-task244-submit30-20260527-05-over-iter5157 score=6126.657684 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5225-task244-submit30-20260527-05-over-iter5157",
+    "task": "task244.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 32623.0,\n        \"static_memory_bytes\": 32539,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task244.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5225-task244-submit30-20260527-05-over-iter5157/task244.onnx\",\n      \"runs/iter5225-task244-submit30-20260527-05-over-iter5157/submission.zip\",\n      \"runs/iter5225-task244-submit30-20260527-05-over-iter5157/summary.json\",\n      \"runs/iter5225-task244-submit30-20260527-05-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.34,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5226-task079-submit30-20260527-06-over-iter5157 score=6126.657684 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5226-task079-submit30-20260527-06-over-iter5157",
+    "task": "task079.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 24953.0,\n        \"static_memory_bytes\": 24708,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task079.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5226-task079-submit30-20260527-06-over-iter5157/task079.onnx\",\n      \"runs/iter5226-task079-submit30-20260527-06-over-iter5157/submission.zip\",\n      \"runs/iter5226-task079-submit30-20260527-06-over-iter5157/summary.json\",\n      \"runs/iter5226-task079-submit30-20260527-06-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.34,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5227-task183-submit30-20260527-07-over-iter5157 score=6126.657684 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5227-task183-submit30-20260527-07-over-iter5157",
+    "task": "task183.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 24876.0,\n        \"static_memory_bytes\": 24840,\n        \"public_examples_checked\": 265,\n        \"public_validation_reason\": \"ok:265\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task183.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5227-task183-submit30-20260527-07-over-iter5157/task183.onnx\",\n      \"runs/iter5227-task183-submit30-20260527-07-over-iter5157/submission.zip\",\n      \"runs/iter5227-task183-submit30-20260527-07-over-iter5157/summary.json\",\n      \"runs/iter5227-task183-submit30-20260527-07-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.34,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5228-task268-submit30-20260527-08-over-iter5157 score=6126.657684 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5228-task268-submit30-20260527-08-over-iter5157",
+    "task": "task268.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 24874.0,\n        \"static_memory_bytes\": 24776,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task268.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5228-task268-submit30-20260527-08-over-iter5157/task268.onnx\",\n      \"runs/iter5228-task268-submit30-20260527-08-over-iter5157/submission.zip\",\n      \"runs/iter5228-task268-submit30-20260527-08-over-iter5157/summary.json\",\n      \"runs/iter5228-task268-submit30-20260527-08-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.34,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5229-task237-submit30-20260527-09-over-iter5157 score=6126.657639 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5229-task237-submit30-20260527-09-over-iter5157",
+    "task": "task237.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 21956.0,\n        \"static_memory_bytes\": 21915,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task237.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5229-task237-submit30-20260527-09-over-iter5157/task237.onnx\",\n      \"runs/iter5229-task237-submit30-20260527-09-over-iter5157/submission.zip\",\n      \"runs/iter5229-task237-submit30-20260527-09-over-iter5157/summary.json\",\n      \"runs/iter5229-task237-submit30-20260527-09-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.34,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5230-task084-submit30-20260527-10-over-iter5157 score=6126.655023 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5230-task084-submit30-20260527-10-over-iter5157",
+    "task": "task084.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 19565.0,\n        \"static_memory_bytes\": 19442,\n        \"public_examples_checked\": 175,\n        \"public_validation_reason\": \"ok:175\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task084.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5230-task084-submit30-20260527-10-over-iter5157/task084.onnx\",\n      \"runs/iter5230-task084-submit30-20260527-10-over-iter5157/submission.zip\",\n      \"runs/iter5230-task084-submit30-20260527-10-over-iter5157/summary.json\",\n      \"runs/iter5230-task084-submit30-20260527-10-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.34,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5231-task003-submit30-20260527-11-over-iter5157 score=6126.657684 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5231-task003-submit30-20260527-11-over-iter5157",
+    "task": "task003.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 10035.0,\n        \"static_memory_bytes\": 10026,\n        \"public_examples_checked\": 265,\n        \"public_validation_reason\": \"ok:265\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task003.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5231-task003-submit30-20260527-11-over-iter5157/task003.onnx\",\n      \"runs/iter5231-task003-submit30-20260527-11-over-iter5157/submission.zip\",\n      \"runs/iter5231-task003-submit30-20260527-11-over-iter5157/summary.json\",\n      \"runs/iter5231-task003-submit30-20260527-11-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.34,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5233-task081-submit30-20260527-13-over-iter5157 score=6126.655950 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5233-task081-submit30-20260527-13-over-iter5157",
+    "task": "task081.onnx",
+    "returncode": 0,
+    "output_tail": "lacement_cost\": 2309.0,\n        \"static_memory_bytes\": 2198,\n        \"public_examples_checked\": 264,\n        \"public_validation_reason\": \"ok:264\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task081.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5233-task081-submit30-20260527-13-over-iter5157/task081.onnx\",\n      \"runs/iter5233-task081-submit30-20260527-13-over-iter5157/submission.zip\",\n      \"runs/iter5233-task081-submit30-20260527-13-over-iter5157/summary.json\",\n      \"runs/iter5233-task081-submit30-20260527-13-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.33,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5234-task061-submit30-20260527-14-over-iter5157 score=6126.657684 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5234-task061-submit30-20260527-14-over-iter5157",
+    "task": "task061.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 18911.0,\n        \"static_memory_bytes\": 16942,\n        \"public_examples_checked\": 267,\n        \"public_validation_reason\": \"ok:267\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task061.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5234-task061-submit30-20260527-14-over-iter5157/task061.onnx\",\n      \"runs/iter5234-task061-submit30-20260527-14-over-iter5157/submission.zip\",\n      \"runs/iter5234-task061-submit30-20260527-14-over-iter5157/summary.json\",\n      \"runs/iter5234-task061-submit30-20260527-14-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.34,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5235-task008-submit30-20260527-15-over-iter5157 score=6126.609224 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5235-task008-submit30-20260527-15-over-iter5157",
+    "task": "task008.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 24712.0,\n        \"static_memory_bytes\": 24652,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task008.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5235-task008-submit30-20260527-15-over-iter5157/task008.onnx\",\n      \"runs/iter5235-task008-submit30-20260527-15-over-iter5157/submission.zip\",\n      \"runs/iter5235-task008-submit30-20260527-15-over-iter5157/summary.json\",\n      \"runs/iter5235-task008-submit30-20260527-15-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.29,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5236-task007-submit30-20260527-16-over-iter5157 score=6126.418982 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5236-task007-submit30-20260527-16-over-iter5157",
+    "task": "task007.onnx",
+    "returncode": 0,
+    "output_tail": "lacement_cost\": 9230.0,\n        \"static_memory_bytes\": 9200,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task007.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5236-task007-submit30-20260527-16-over-iter5157/task007.onnx\",\n      \"runs/iter5236-task007-submit30-20260527-16-over-iter5157/submission.zip\",\n      \"runs/iter5236-task007-submit30-20260527-16-over-iter5157/summary.json\",\n      \"runs/iter5236-task007-submit30-20260527-16-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.22,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5237-task190-submit30-20260527-17-over-iter5157 score=6126.709532 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5237-task190-submit30-20260527-17-over-iter5157",
+    "task": "task190.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 10636.0,\n        \"static_memory_bytes\": 10460,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task190.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5237-task190-submit30-20260527-17-over-iter5157/task190.onnx\",\n      \"runs/iter5237-task190-submit30-20260527-17-over-iter5157/submission.zip\",\n      \"runs/iter5237-task190-submit30-20260527-17-over-iter5157/summary.json\",\n      \"runs/iter5237-task190-submit30-20260527-17-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.22,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5238-task219-submit30-20260527-18-over-iter5157 score=6140.887769 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5238-task219-submit30-20260527-18-over-iter5157",
+    "task": "task219.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 47568.0,\n        \"static_memory_bytes\": 19286,\n        \"public_examples_checked\": 265,\n        \"public_validation_reason\": \"ok:265\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task219.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5238-task219-submit30-20260527-18-over-iter5157/task219.onnx\",\n      \"runs/iter5238-task219-submit30-20260527-18-over-iter5157/submission.zip\",\n      \"runs/iter5238-task219-submit30-20260527-18-over-iter5157/summary.json\",\n      \"runs/iter5238-task219-submit30-20260527-18-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6092.91,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5239-task186-submit30-20260527-19-over-iter5157 score=6126.398452 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5239-task186-submit30-20260527-19-over-iter5157",
+    "task": "task186.onnx",
+    "returncode": 0,
+    "output_tail": "eplacement_cost\": 797.0,\n        \"static_memory_bytes\": 416,\n        \"public_examples_checked\": 267,\n        \"public_validation_reason\": \"ok:267\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task186.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5239-task186-submit30-20260527-19-over-iter5157/task186.onnx\",\n      \"runs/iter5239-task186-submit30-20260527-19-over-iter5157/submission.zip\",\n      \"runs/iter5239-task186-submit30-20260527-19-over-iter5157/summary.json\",\n      \"runs/iter5239-task186-submit30-20260527-19-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.11,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5240-task063-submit30-20260527-20-over-iter5157 score=6126.377459 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5240-task063-submit30-20260527-20-over-iter5157",
+    "task": "task063.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 30730.0,\n        \"static_memory_bytes\": 30700,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task063.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5240-task063-submit30-20260527-20-over-iter5157/task063.onnx\",\n      \"runs/iter5240-task063-submit30-20260527-20-over-iter5157/submission.zip\",\n      \"runs/iter5240-task063-submit30-20260527-20-over-iter5157/summary.json\",\n      \"runs/iter5240-task063-submit30-20260527-20-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.06,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5241-task166-submit30-20260527-21-over-iter5157 score=6126.345810 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5241-task166-submit30-20260527-21-over-iter5157",
+    "task": "task166.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 33860.0,\n        \"static_memory_bytes\": 33824,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task166.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5241-task166-submit30-20260527-21-over-iter5157/task166.onnx\",\n      \"runs/iter5241-task166-submit30-20260527-21-over-iter5157/submission.zip\",\n      \"runs/iter5241-task166-submit30-20260527-21-over-iter5157/summary.json\",\n      \"runs/iter5241-task166-submit30-20260527-21-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.02,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5243-task207-submit30-20260527-23-over-iter5157 score=6126.470135 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5243-task207-submit30-20260527-23-over-iter5157",
+    "task": "task207.onnx",
+    "returncode": 0,
+    "output_tail": "lacement_cost\": 2877.0,\n        \"static_memory_bytes\": 2832,\n        \"public_examples_checked\": 265,\n        \"public_validation_reason\": \"ok:265\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task207.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5243-task207-submit30-20260527-23-over-iter5157/task207.onnx\",\n      \"runs/iter5243-task207-submit30-20260527-23-over-iter5157/submission.zip\",\n      \"runs/iter5243-task207-submit30-20260527-23-over-iter5157/summary.json\",\n      \"runs/iter5243-task207-submit30-20260527-23-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.03,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5244-task279-submit30-20260527-24-over-iter5157 score=6126.506324 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5244-task279-submit30-20260527-24-over-iter5157",
+    "task": "task279.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 50462.0,\n        \"static_memory_bytes\": 50176,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task279.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5244-task279-submit30-20260527-24-over-iter5157/task279.onnx\",\n      \"runs/iter5244-task279-submit30-20260527-24-over-iter5157/submission.zip\",\n      \"runs/iter5244-task279-submit30-20260527-24-over-iter5157/summary.json\",\n      \"runs/iter5244-task279-submit30-20260527-24-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.19,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5245-task068-submit30-20260527-25-over-iter5157 score=6126.148566 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5245-task068-submit30-20260527-25-over-iter5157",
+    "task": "task068.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 17951.0,\n        \"static_memory_bytes\": 17924,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task068.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5245-task068-submit30-20260527-25-over-iter5157/task068.onnx\",\n      \"runs/iter5245-task068-submit30-20260527-25-over-iter5157/submission.zip\",\n      \"runs/iter5245-task068-submit30-20260527-25-over-iter5157/summary.json\",\n      \"runs/iter5245-task068-submit30-20260527-25-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6100.98,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5246-task065-submit30-20260527-26-over-iter5157 score=6126.138192 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5246-task065-submit30-20260527-26-over-iter5157",
+    "task": "task065.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 51454.0,\n        \"static_memory_bytes\": 51378,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task065.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5246-task065-submit30-20260527-26-over-iter5157/task065.onnx\",\n      \"runs/iter5246-task065-submit30-20260527-26-over-iter5157/submission.zip\",\n      \"runs/iter5246-task065-submit30-20260527-26-over-iter5157/summary.json\",\n      \"runs/iter5246-task065-submit30-20260527-26-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6100.95,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5248-task011-submit30-20260527-28-over-iter5157 score=6126.315479 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5248-task011-submit30-20260527-28-over-iter5157",
+    "task": "task011.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 93279.0,\n        \"static_memory_bytes\": 90936,\n        \"public_examples_checked\": 267,\n        \"public_validation_reason\": \"ok:267\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task011.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5248-task011-submit30-20260527-28-over-iter5157/task011.onnx\",\n      \"runs/iter5248-task011-submit30-20260527-28-over-iter5157/submission.zip\",\n      \"runs/iter5248-task011-submit30-20260527-28-over-iter5157/summary.json\",\n      \"runs/iter5248-task011-submit30-20260527-28-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6100.94,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5249-task272-submit30-20260527-29-over-iter5157 score=6122.517712 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5249-task272-submit30-20260527-29-over-iter5157",
+    "task": "task272.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 57149.0,\n        \"static_memory_bytes\": 57120,\n        \"public_examples_checked\": 267,\n        \"public_validation_reason\": \"ok:267\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task272.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5249-task272-submit30-20260527-29-over-iter5157/task272.onnx\",\n      \"runs/iter5249-task272-submit30-20260527-29-over-iter5157/submission.zip\",\n      \"runs/iter5249-task272-submit30-20260527-29-over-iter5157/summary.json\",\n      \"runs/iter5249-task272-submit30-20260527-29-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6097.19,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5251-task174-submit30-20260527-31-over-iter5157 score=6126.652912 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5251-task174-submit30-20260527-31-over-iter5157",
+    "task": "task174.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 53352.0,\n        \"static_memory_bytes\": 53205,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task174.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5251-task174-submit30-20260527-31-over-iter5157/task174.onnx\",\n      \"runs/iter5251-task174-submit30-20260527-31-over-iter5157/submission.zip\",\n      \"runs/iter5251-task174-submit30-20260527-31-over-iter5157/summary.json\",\n      \"runs/iter5251-task174-submit30-20260527-31-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6101.33,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5252-task049-submit30-20260527-32-over-iter5157 score=6140.790622 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5252-task049-submit30-20260527-32-over-iter5157",
+    "task": "task049.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 52421.0,\n        \"static_memory_bytes\": 52273,\n        \"public_examples_checked\": 268,\n        \"public_validation_reason\": \"ok:268\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task049.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5252-task049-submit30-20260527-32-over-iter5157/task049.onnx\",\n      \"runs/iter5252-task049-submit30-20260527-32-over-iter5157/submission.zip\",\n      \"runs/iter5252-task049-submit30-20260527-32-over-iter5157/summary.json\",\n      \"runs/iter5252-task049-submit30-20260527-32-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6100.86,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5253-task273-submit30-20260527-33-over-iter5157 score=6126.109955 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5253-task273-submit30-20260527-33-over-iter5157",
+    "task": "task273.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 10433.0,\n        \"static_memory_bytes\": 10400,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task273.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5253-task273-submit30-20260527-33-over-iter5157/task273.onnx\",\n      \"runs/iter5253-task273-submit30-20260527-33-over-iter5157/submission.zip\",\n      \"runs/iter5253-task273-submit30-20260527-33-over-iter5157/summary.json\",\n      \"runs/iter5253-task273-submit30-20260527-33-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6100.79,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5254-task269-submit30-20260527-34-over-iter5157 score=6126.092425 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5254-task269-submit30-20260527-34-over-iter5157",
+    "task": "task269.onnx",
+    "returncode": 0,
+    "output_tail": "cement_cost\": 14660.0,\n        \"static_memory_bytes\": 14564,\n        \"public_examples_checked\": 266,\n        \"public_validation_reason\": \"ok:266\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task269.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5254-task269-submit30-20260527-34-over-iter5157/task269.onnx\",\n      \"runs/iter5254-task269-submit30-20260527-34-over-iter5157/submission.zip\",\n      \"runs/iter5254-task269-submit30-20260527-34-over-iter5157/summary.json\",\n      \"runs/iter5254-task269-submit30-20260527-34-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6100.77,
+    "best_candidate_updated": false
+  },
+  {
+    "message": "iter5255-task139-submit30-20260527-35-over-iter5157 score=6125.949763 hyp:submit30-20260527-interact",
+    "experiment_id": "iter5255-task139-submit30-20260527-35-over-iter5157",
+    "task": "task139.onnx",
+    "returncode": 0,
+    "output_tail": "lacement_cost\": 7364.0,\n        \"static_memory_bytes\": 7128,\n        \"public_examples_checked\": 265,\n        \"public_validation_reason\": \"ok:265\",\n        \"validation_ok\": true\n      }\n    ],\n    \"full_public_validation\": {\n      \"ok\": true,\n      \"raw_ok\": true,\n      \"scoped_to_changed_task\": \"task139.onnx\",\n      \"changed_task_failures\": [],\n      \"inherited_validation_failures_ignored\": true,\n      \"task_count\": 400,\n      \"errors\": [],\n      \"warnings\": [\n        \"fast-build changed-task validation; submit_gate performs pre-submit scoped artifact validation\"\n      ],\n      \"failed_tasks\": []\n    },\n    \"changed_files\": [\n      \"runs/iter5255-task139-submit30-20260527-35-over-iter5157/task139.onnx\",\n      \"runs/iter5255-task139-submit30-20260527-35-over-iter5157/submission.zip\",\n      \"runs/iter5255-task139-submit30-20260527-35-over-iter5157/summary.json\",\n      \"runs/iter5255-task139-submit30-20260527-35-over-iter5157/candidate.json\"\n    ]\n  },\n  \"best_candidate_updated\": false\n}\n",
+    "status": "SubmissionStatus.COMPLETE",
+    "public_score": 6100.59,
+    "best_candidate_updated": false
+  }
+]
