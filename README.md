@@ -9,7 +9,7 @@ Contents:
 - `records/experiments.csv`: compact local experiment metadata.
 - `records/best_candidate.json`: latest recorded best public result.
 
-Current recorded best public score: `7275.98`.
+Current recorded best public score: `7276.15`.
 
 Large generated model bundles, local scripts, private logs, credentials, and
 internal operating notes are intentionally not included in this public mirror.
